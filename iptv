@@ -106,27 +106,27 @@ https://vtc130121.cdn.vnns.io/VTC13/playlist.m3u8
 https://vtc130121.cdn.vnns.io/VTC14/playlist.m3u8
 #EXTINF:-1,VTC16 HD
 https://vtc130121.cdn.vnns.io/VTC16/playlist.m3u8
-#EXTINF:-1,VTV1 HD - TH Việt Nam
+#EXTINF:-1,VTV1 HD
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
-#EXTINF:-1,VTV2 HD - TH Việt Nam
+#EXTINF:-1,VTV2 HD
 http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
-#EXTINF:-1,VTV3 HD - TH Việt Nam
+#EXTINF:-1,VTV3 HD
 http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
-#EXTINF:-1,VTV4 HD - TH Việt Nam
+#EXTINF:-1,VTV4 HD
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
-#EXTINF:-1,VTV5 HD - TH Việt Nam
+#EXTINF:-1,VTV5 HD
 http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
-#EXTINF:-1,VTV5 HD Tây Nam Bộ - TH Việt Nam
+#EXTINF:-1,VTV5 HD Tây Nam Bộ
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
-#EXTINF:-1,VTV5 Tây Nguyên - TH Việt Nam
+#EXTINF:-1,VTV5 Tây Nguyên
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
-#EXTINF:-1,VTV6 HD - TH Việt Nam
+#EXTINF:-1,VTV6 HD
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-#EXTINF:-1,VTV7 HD - TH Việt Nam
+#EXTINF:-1,VTV7 HD
 http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
-#EXTINF:-1,VTV8 HD - TH Việt Nam
+#EXTINF:-1,VTV8 HD
 http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
-#EXTINF:-1,VTV9 HD - TH Việt Nam
+#EXTINF:-1,VTV9 HD
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 #EXTINF:-1,VTVcab1 HD - Vie giải trí
 http://rglink.ml/vieon.m3u8?kenh=vie-giai-tri-hd
