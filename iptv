@@ -380,7 +380,7 @@ http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
 #EXTINF:-1,BOX MOVIE 1
 #http://gg.gg/cc-movie|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
-#EXTINF:-1,BOX MUSIC COUNTRY
+#EXTINF:-1,BOX MUSIC
 #http://gg.gg/cc-music|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
 #EXTINF:-1,Hollywood Classic
