@@ -494,3 +494,5 @@ https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1,DreamWorks HD
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,THỬ NGHIỆM
+https://www.googleapis.com/drive/v3/files/1rOxLpKjNjczFDwQw4tdYzQ6kVdxVvcyy?alt=media&key=AIzaSyCrVajNTe4txTVlDiMCd1x52mLpDFPJDyE
