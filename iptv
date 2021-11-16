@@ -227,33 +227,33 @@ https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1,THVL4 HD - TH Vĩnh Long
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,KG TV - TH Kiên Giang
+#EXTINF:-1,KG PTTH HD - TH Kiên Giang
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1,DaNang tv 1 - TH Đà Nẵng
+#EXTINF:-1,DaNang tv1 HD - TH Đà Nẵng
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1,DaNang tv 2 - TH Đà Nẵng
+#EXTINF:-1,DaNang tv2 HD - TH Đà Nẵng
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1,BGTV HD - TH Bắc Giang
 http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
-#EXTINF:-1,NTV - TH Ninh Bình
+#EXTINF:-1,NTV HD - TH Ninh Bình
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 #EXTINF:-1,TBTV - TH Thái Bình
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1,TN1 HD - TH Thái Nguyên
-http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+http://103.90.220.236/tntvlive/tv1live.m3u8
 #EXTINF:-1,QTV1 HD - TH Quảng Ninh
-http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1,QTV3 HD - TH Quảng Ninh
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1,BTV1 HD - TH Bình Dương
+#EXTINF:-1,BTV1 - TH Bình Dương
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,BTV2 HD - TH Bình Dương
+#EXTINF:-1,BTV2 - TH Bình Dương
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,BTV4 HD - TH Bình Dương
 https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1,BTV6 - TH Bình Dương
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,An Viên - B Channel
+#EXTINF:-1,An Viên - B Channel - BTV9
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTINF:-1,NCM - BTV10
 https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
@@ -261,17 +261,17 @@ https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,BPTV1 HD - TH Bình Phước
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
-#EXTINF:-1,BPTV2 HD - TH Bình Phước
+#EXTINF:-1,BPTV2 - TH Bình Phước
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,ANT - BPTV3 - TH Bình Phước
+#EXTINF:-1,ANT - BPTV3
 https://8387e1fb5a.vws.vegacdn.vn/live/binhphuoc3/chunklist_1.m3u8
-#EXTINF:-1,ĐN1 HD - TH Đồng Nai 
+#EXTINF:-1,ĐN1 - TH Đồng Nai 
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,ĐN2 HD - TH Đồng Nai
+#EXTINF:-1,ĐN2 - TH Đồng Nai
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,TTV11 - TH Tây Ninh
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
-#EXTINF:-1,BRT HD - TH Vũng Tàu
+#EXTINF:-1,BRT - TH Vũng Tàu
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1,ATV - TH An Giang
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
@@ -281,7 +281,7 @@ https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,CTV - TH Cà Mau
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,CTV - TH Cần Thơ
+#EXTINF:-1,THTPCT - TH Cần Thơ
 https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,THĐT1 - TH Đồng Tháp
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
@@ -297,7 +297,7 @@ https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,THTG - TH Tiền Giang
 https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,THTV HD - TH Trà Vinh
+#EXTINF:-1,THTV - TH Trà Vinh
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,BTV - TH Bình Định
 https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
@@ -313,15 +313,15 @@ https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,LTV - TH Lâm Đồng
 https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,KTV HD - TH Khánh Hòa
+#EXTINF:-1,KTV - TH Khánh Hòa
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
-#EXTINF:-1,PTP HD - TH Phú Yên
+#EXTINF:-1,PTP - TH Phú Yên
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,QBTV - TH Quảng Bình
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,QRT HD - TH Quảng Nam
+#EXTINF:-1,QRT - TH Quảng Nam
 https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,PTQ HD - TH Quảng Ngãi
+#EXTINF:-1,PTQ - TH Quảng Ngãi
 https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,QRTV - TH Quảng Trị
 https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
@@ -345,7 +345,7 @@ https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,THD - TH Hải Dương
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,THP HD - Hải Phòng
+#EXTINF:-1,THP - Hải Phòng
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1,THP+ HD - TH Hải Phòng
 https://live.thhp.vn/hls/thpplus/index.m3u8
@@ -367,7 +367,7 @@ https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,TTV - TH Thanh Hóa
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,TTV HD - TH Tuyên Quang
+#EXTINF:-1,TTV - TH Tuyên Quang
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,YTV HD - TH Yên Bái
 https://yenbaitv.org.vn/hls/livestream.m3u8
