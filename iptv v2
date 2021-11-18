@@ -229,7 +229,7 @@ https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_2_fps/prod_mykplus_liv
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_3_fps/prod_mykplus_live_tv_3_fps.isml/prod_mykplus_live_tv_3_fps.mpd
 
-#Gói Địa Phương
+#Gói VOD
 
 #EXTINF:-1,VOV TV HD
 https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
