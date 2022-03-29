@@ -229,13 +229,13 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W
 #EXTINF:-1 tvg-id="hitv"  group-title="HanoiCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/Logo_HITV_from_2013.png/revision/latest/scale-to-width-down/200?cb=20200831064739&path-prefix=vi",HITV - HanoiCab
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
 #EXTINF:-1 tvg-id="youtv"  group-title="HanoiCab" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5d506068474815.Y3JvcCwzNzI2LDI5MTQsMCw1NQ.png",YouTV - HanoiCab 2
-#EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="antg"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới HD (SD)
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://dl.dropboxusercontent.com/s/srgt8kq727fbbqr/
-#EXTINF:0 tvg-id="hanoicab4"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/4mH7P3Y/Hanoicab4-cc.webp",Hanoicab4
-https://dl.dropboxusercontent.com/s/2u21rvz8xp179ny/
+#EXTINF:0 tvg-id="antg"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới HD
+https://dl.dropboxusercontent.com/s/srgt8kq727fbbqr/%09%E3%85%A4
+#EXTINF:0 tvg-id="hanoicab4"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/4mH7P3Y/Hanoicab4-cc.webp",MOV HD
+https://dl.dropboxusercontent.com/s/2u21rvz8xp179ny/%09%E3%85%A4
+#EXTINF:0 tvg-id="hanoicab5"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/d6FpwN0/Hanoicab5.png",VNK Home Shoping
+https://e3.endpoint.cdn.sctvonline.vn/hls/hanoicab5/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 
 #Gói Địa Phương
 
@@ -415,7 +415,7 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #Gói VOD
 
 #EXTINF:-1 tvg-id="inthebox" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",BOX Channel
-
+http://gg.gg/ccboxchannel
 #EXTINF:-1 tvg-id="boxhits" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX Hits HD
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title=VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 1 HD
