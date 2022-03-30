@@ -220,7 +220,11 @@ https://dl.dropboxusercontent.com/s/5v9irknmbnnrnxj/%09%E3%85%A4%7C|Referer=http
 #KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3A{string03}%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ4MDI2NTM3OTI2LHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/i.mpd
 #EXTINF:-1 group-title="K+" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/524?cb=20211011130056&path-prefix=vi",K+ LIFE HD
-
+https://dl.dropboxusercontent.com/s/feml1nov4rarlqb/%09%E3%85%A4%7C|Referer=http://sctvonline.vn/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3A{string04}%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFRIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ4MDI2NTM4MzMzLHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/i.mpd
 #EXTINF:-1 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/756?cb=20211011130430&path-prefix=vi",K+ SPORT 1 HD
 
 #EXTINF:-1 group-title="K+" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/774?cb=20211011130352&path-prefix=vi",K+ SPORT 2 HD
