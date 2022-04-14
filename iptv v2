@@ -202,7 +202,13 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zbbGFsW/VCab16-cc.webp",ON FOOTBALL HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://i.ibb.co/YcnJFBD/cab18.webp",ON SPORTS NEWS
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/YcnJFBD/cab18.webp",ON SPORTS NEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?
+#EXTINF:0 tvg-id="vtvcab23hd" group-title= "VTVcab" tvg-logo="https://i.ibb.co/x29NNWG/cab23.webp",ON GOLF
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
 http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?
 
 #Gói K+
@@ -210,21 +216,13 @@ http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?
 #EXTINF:-1 group-title="K+" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/568?cb=20211011130239&path-prefix=vi",K+ KIDS HD
 
 #EXTINF:-1 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/588?cb=20211011125849&path-prefix=vi",K+ CINE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
-http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+
 #EXTINF:-1 group-title="K+" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/524?cb=20211011130056&path-prefix=vi",K+ LIFE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
-http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+
 #EXTINF:-1 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/756?cb=20211011130430&path-prefix=vi",K+ SPORT 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
-http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
 #EXTINF:-1 group-title="K+" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/774?cb=20211011130352&path-prefix=vi",K+ SPORT 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
-http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
 #EXTINF:-1 group-title="K+" tvg-id="klive1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/K%2B_Live_1.png/revision/latest/scale-to-width-down/1000?cb=20211013135146&path-prefix=vi",K+ LIVE 1
 
 #EXTINF:-1 group-title="K+" tvg-id="klive2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/K%2B_Live_2.png/revision/latest/scale-to-width-down/1000?cb=20211013135722&path-prefix=vi",K+ LIVE 2
