@@ -291,7 +291,8 @@ https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong4" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/IMovie_TV_logo_old.png/revision/latest/top-crop/width/220/height/220?cb=20200305105447",BTV4 HD - TH Bình Dương
 https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="btv5hd" group-title="🇸| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/51/SSport_3.png/revision/latest/scale-to-width-down/190?cb=20200611142938&path-prefix=vi",BTV5 - SSPORT3
+#EXTINF:-1 tvg-id="btv5hd" group-title="Địa Phương" tvg-logo="https://i.ibb.co/r6GjWJm/Binh-Duong5-cc.webp",BTV5 - SSPORT3
+http://gg.gg/ccbtv5|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png",BTV6 - TH Bình Dương
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/An_vi%C3%AAn_tv.png/revision/latest/scale-to-width-down/340?cb=20201010131942&path-prefix=vi",AnViên - B Channel - BTV9
