@@ -494,7 +494,7 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 #https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0  tvg-id="paramouthd" group-title="VOD" tvg-logo="https://i.ibb.co/n0FqTt8/Paramount-cc.png",Paramount CHANNEL
-https://htv-drm-live-cdn.fptplay.net/htvonline/paramount.720p.nimble.tms/chunks.m3u8?cc
+https://drm-livecdn.hplus.com.vn/CDN-FPT/PARAMOUNT-HD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTEzLjE3Mi4xMzIuMjIiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTEzLjE3Mi4xMzIuMjIiLCJpYXQiOjE2NTE0NjQyNTV9.h7H_lWHOegSWojyfJPDtHRdr0Glchxs07Vm6yYn1fkYNLeTd0yIJPbpMh6W0gMA0OVqS65NBDqOPHe31XWyKxJpGUdre9vG0uFw8AXRD-svDK-88o5sCTBsXN1Ciy6FbKhL6haRVy0Q_zM5x46QKpI2IizsRblRaiVzYa_YF2eZeR9qWq51O1u4IIhxhsQM1wcHlEUxXaApvwYITJH5c96Qk4Hp0Prq_mYdBJrQDCXFkcq9Lqof7p5Q3uoFeCPfzT7WDNl_C-BgyWpZ-D-IMihHr-CocyBRNpUYwZe4CzC-YK8w7KCvT8dcYoHBbQ2DaMfFnP4WAGHdy4uaY_NZN6-GhISJVJzAiYxyVovxo2Rjv44bm4OMZTkZ8nfmDXWCxSw0XOb54cpeL4BerWNCchJ0Zr5Yy2Jzm2vGWSLeTo6YE6EqwyJcR7LvNiPLQlh_gEFpgjJQogQbUUsQkkEg3zHdVhfpWqMIiEcHXWTkJR5NrjJE1n3P7-4BVm11gpi1gtCKTq3l3-X1FmpF8wRIPp_PLFzWoEsbazEMr-1-hMuxY5o18dHFw_H-ip6OrA5W_j3EPRYXaFDt9pgDUQUfNgE4qXLdfDqaZzRgKj8Wh7d77nh6VlJTuYPTiWypx6E1F3810rSgn39gE09WKhCdXqnDho5_Fhtau9uq-_HhQEaA
 #EXTINF:-1 tvg-id="kbs_world" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS WORLD
 https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="nhk_world" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK WORLD
@@ -519,7 +519,7 @@ https://vips-livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
 #EXTINF:-1 group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV HD
-https://dl.dropboxusercontent.com/s/0f8949nuqjcn5xq/
+
 #EXTINF:-1 tvg-id="animaxhd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX HD
 https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
