@@ -203,9 +203,9 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zbbGFsW/VCab16-cc.webp",ON FOOTBALL HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/YcnJFBD/cab18.webp",ON SPORTS NEWS
-http://gg.gg/ccccab18
+
 #EXTINF:0 tvg-id="vtvcab23hd" group-title= "VTVcab" tvg-logo="https://i.ibb.co/x29NNWG/cab23.webp",ON GOLF
-http://gg.gg/ccccab23
+
 
 #Gói K+
 
@@ -233,11 +233,15 @@ https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
 #EXTINF:-1 tvg-id="youtv"  group-title="HanoiCab" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5d506068474815.Y3JvcCwzNzI2LDI5MTQsMCw1NQ.png",YouTV - HanoiCab 2
 https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="antg"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới HD
-https://dl.dropboxusercontent.com/s/srgt8kq727fbbqr/%09%E3%85%A4
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/antg|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="hanoicab4"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/4mH7P3Y/Hanoicab4-cc.webp",MOV HD
 https://dl.dropboxusercontent.com/s/2u21rvz8xp179ny/%09%E3%85%A4
 #EXTINF:0 tvg-id="hanoicab5"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/d6FpwN0/Hanoicab5.png",VNK Home Shoping
 https://e3.endpoint.cdn.sctvonline.vn/hls/hanoicab5/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
+#EXTINF: -1 group-title = "Hanoicab" tvg-logo = "https://cdn.hqth.me/logo/thumbs/101.png", Hanoicab5
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/hanoicab5|Referer=http://sctvonline.vn/
+#EXTINF: -1 group-title = "💕 | Hanoicab" tvg-logo = "https://cdn.hqth.me/logo/thumbs/103.png", PHIM HAY
+http://cdn.socolacdn.online:8080/phimhay/mpegts
 
 #Gói Địa Phương
 
@@ -469,9 +473,9 @@ http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",NATGEO WILD HD
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8?cc
-#EXTINF:-1 tvg-id="blueantent" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/1200px-Rock_Entertainment.png",BLUE ANT ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="blueantent" group-title="VOD" tvg-logo="https://i.ibb.co/g6zym2b/Blue-Ant-Ent-cc.webp",BLUE ANT ENTERTAINMENT HD
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="blueantext" group-title="VOD", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Extreme.png",BLUE ANT EXTREME HD
+#EXTINF:-1 tvg-id="blueantext" group-title="VOD", tvg-logo="https://i.ibb.co/3TyW9DX/Blue-Ant-Etx-cc.png",BLUE ANT EXTREME HD
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network HD
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
@@ -494,7 +498,7 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 #https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0  tvg-id="paramouthd" group-title="VOD" tvg-logo="https://i.ibb.co/n0FqTt8/Paramount-cc.png",Paramount CHANNEL
-https://drm-livecdn.hplus.com.vn/CDN-FPT/PARAMOUNT-HD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTEzLjE3Mi4xMzIuMjIiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTEzLjE3Mi4xMzIuMjIiLCJpYXQiOjE2NTE0NjQyNTV9.h7H_lWHOegSWojyfJPDtHRdr0Glchxs07Vm6yYn1fkYNLeTd0yIJPbpMh6W0gMA0OVqS65NBDqOPHe31XWyKxJpGUdre9vG0uFw8AXRD-svDK-88o5sCTBsXN1Ciy6FbKhL6haRVy0Q_zM5x46QKpI2IizsRblRaiVzYa_YF2eZeR9qWq51O1u4IIhxhsQM1wcHlEUxXaApvwYITJH5c96Qk4Hp0Prq_mYdBJrQDCXFkcq9Lqof7p5Q3uoFeCPfzT7WDNl_C-BgyWpZ-D-IMihHr-CocyBRNpUYwZe4CzC-YK8w7KCvT8dcYoHBbQ2DaMfFnP4WAGHdy4uaY_NZN6-GhISJVJzAiYxyVovxo2Rjv44bm4OMZTkZ8nfmDXWCxSw0XOb54cpeL4BerWNCchJ0Zr5Yy2Jzm2vGWSLeTo6YE6EqwyJcR7LvNiPLQlh_gEFpgjJQogQbUUsQkkEg3zHdVhfpWqMIiEcHXWTkJR5NrjJE1n3P7-4BVm11gpi1gtCKTq3l3-X1FmpF8wRIPp_PLFzWoEsbazEMr-1-hMuxY5o18dHFw_H-ip6OrA5W_j3EPRYXaFDt9pgDUQUfNgE4qXLdfDqaZzRgKj8Wh7d77nh6VlJTuYPTiWypx6E1F3810rSgn39gE09WKhCdXqnDho5_Fhtau9uq-_HhQEaA
+https://htv-drm-live-cdn.fptplay.net/htvonline/paramount.720p.nimble.tms/chunks.m3u8?cc
 #EXTINF:-1 tvg-id="kbs_world" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS WORLD
 https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="nhk_world" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK WORLD
@@ -509,9 +513,11 @@ http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="abcaustralia" roup-title="VOD" tvg-logo="https://i.ibb.co/VwXYCMt/ABCAustralia-cc.png",ABC Australia
 https://vips-livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" group-title="VOD" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/214.png", CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png",outdoor CHANNEL HD
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tv5monde" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/fc/Tivi5monde-1.jpg",TV5 MONDE ASIE
+#EXTINF:-1 tvg-id="tv5monde" group-title="VOD" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/219.png",TV5 MONDE ASIE
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="VOD", tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/98/Bloomberg_Television_%282016-.n.v.%29.png/revision/latest?cb=20200102142902",bloomberg
 https://vips-livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
@@ -519,7 +525,16 @@ https://vips-livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
 #EXTINF:-1 group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV HD
-
+https://api.vthanhtivii.xyz/v1/getlink/tv360/99/2
+#EXTINF:-1 tvg-id="hits" group-title="VOD" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/images-mkt/hits-channel-logo.png",HITS HD
+https://api.vthanhtivii.xyz/v1/getlink/tv360/107/2
+#EXTINF:-1 tvg-id="cnbc" group-title="VOD" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/250.png", CNBC
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="VOD" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/212.png", CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-id="cna" group-title="VOD" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/213.png", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX HD
 https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
