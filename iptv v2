@@ -234,13 +234,11 @@ https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
 https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="antg"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới HD
 https://api.vthanhtivii.xyz/v1/getlink/sctvonline/antg|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="hanoicab4"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/4mH7P3Y/Hanoicab4-cc.webp",MOV HD
-https://dl.dropboxusercontent.com/s/2u21rvz8xp179ny/%09%E3%85%A4
+#EXTINF:0 tvg-id="hanoicab4"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/4mH7P3Y/Hanoicab4-cc.webp",MOV HD - HanoiCab 4
+https://api.vthanhtivii.xyz/v1/getlink/tv360/30/0
 #EXTINF:0 tvg-id="hanoicab5"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/d6FpwN0/Hanoicab5.png",VNK Home Shoping
 https://e3.endpoint.cdn.sctvonline.vn/hls/hanoicab5/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-#EXTINF: -1 group-title = "Hanoicab" tvg-logo = "https://cdn.hqth.me/logo/thumbs/101.png", Hanoicab5
-https://api.vthanhtivii.xyz/v1/getlink/sctvonline/hanoicab5|Referer=http://sctvonline.vn/
-#EXTINF: -1 group-title = "💕 | Hanoicab" tvg-logo = "https://cdn.hqth.me/logo/thumbs/103.png", PHIM HAY
+#EXTINF: -1 group-title = "Hanoicab" tvg-logo = "https://cdn.hqth.me/logo/thumbs/103.png", PHIM HAY
 http://cdn.socolacdn.online:8080/phimhay/mpegts
 
 #Gói Địa Phương
