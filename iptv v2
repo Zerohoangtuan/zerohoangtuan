@@ -212,13 +212,17 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8?cc|Referer=htt
 #EXTINF:-1 group-title="K+" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/568?cb=20211011130239&path-prefix=vi",K+ KIDS HD
 
 #EXTINF:-1 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/588?cb=20211011125849&path-prefix=vi",K+ CINE
-http://vthanhvnpt.duckdns.org/KCINE_vthanh/mpegts
+#KODIPROP: inputstream.adaptive.license_type = clearkey
+#KODIPROP: inputstream.adaptive.license_key = https: //vthanh.net/key.php? Kid = 2761754f661634d49560631198dd3122 & key = 3617e340b77a76fa1232f4f6360157fd
+https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMWNpbmVfMjAwMC5zdHJlYW18b3RoZXJ8MTY1MzEyNzE0MXwxMDMuMjAwLjIyLjIxMnw5ZTIzNjIxNjU1ZTg2OTA2MzIwZDljNWYwZjMwNmEyYw/drmlive/14022022k1cine_4000.stream/manifest.mpd
 #EXTINF:-1 group-title="K+" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/524?cb=20211011130056&path-prefix=vi",K+ LIFE HD
-http://vthanhvnpt.duckdns.org/KLIFE_vthanh/mpegts
+#KODIPROP: inputstream.adaptive.license_type = clearkey
+#KODIPROP: inputstream.adaptive.license_key = https: //vthanh.net/key.php? Kid = 3c02226f8bec3f948d3e05836c410e7e & key = 4a93d65f5e7009bcaf573b187e68fd21
+https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMWxpZmViXzIwMDAuc3RyZWFtfG90aGVyfDE2NTMxMjcxMTd8MTAzLjIwMC4yMi4yMTJ8MDVkOTYxZTJlZjZiZWYxNzUzMTMyZjRhN2QyMjNlYjk/drmlive/14022022k1lifeb_4000.stream/manifest.mpd
 #EXTINF:-1 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/756?cb=20211011130430&path-prefix=vi",K+ SPORT 1 HD
-http://vthanhvnpt.duckdns.org/KSPORT1_vthanh/mpegts
+
 #EXTINF:-1 group-title="K+" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/774?cb=20211011130352&path-prefix=vi",K+ SPORT 2 HD
-http://vthanhvnpt.duckdns.org/KSPORT2_vthanh/mpegts
+
 #EXTINF:-1 group-title="K+" tvg-id="klive1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/K%2B_Live_1.png/revision/latest/scale-to-width-down/1000?cb=20211013135146&path-prefix=vi",K+ LIVE 1
 
 #EXTINF:-1 group-title="K+" tvg-id="klive2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/K%2B_Live_2.png/revision/latest/scale-to-width-down/1000?cb=20211013135722&path-prefix=vi",K+ LIVE 2
