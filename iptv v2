@@ -408,7 +408,7 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #Gói VOD
 
 #EXTINF:-1 tvg-id="inthebox" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",BOX Channel
-http://gg.gg/ccboxchannel
+https://dl.dropboxusercontent.com/s/rm2zqfq1ba0r82h/
 #EXTINF:-1 tvg-id="boxhits" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX Hits HD
 http://gg.gg/cccboxhits
 #EXTINF:-1 tvg-id="boxmovie1" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 1 HD
