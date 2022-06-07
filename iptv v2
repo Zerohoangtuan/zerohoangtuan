@@ -231,7 +231,7 @@ http://gg.gg/hanoicab6
 #Gói Địa Phương
 
 #EXTINF:-1 tvg-id="vovtvhd"  group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Lo,VOV TV HD
-https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
+http://gg.gg/vovtvhd
 #EXTINF:-1 tvg-id="ttxvnhd"  group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",VNEWS HD
 http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antvhd"  group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/ANTV_SD_logo_fix.png/revision/latest?cb=20201026081353&path-prefix=vi",ANTV HD - TH An Ninh
