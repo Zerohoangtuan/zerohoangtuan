@@ -193,6 +193,8 @@ http://gg.gg/onfootball|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab23hd" group-title= "VTVcab" tvg-logo="https://i.ibb.co/x29NNWG/cab23.webp",ON GOLF
 
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://i.ibb.co/dfYxLmq/ONVFF-BEARTV.png", ON VFF
+http://gg.gg/onvffvn
 
 #Gói K+
 
