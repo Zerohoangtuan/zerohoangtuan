@@ -135,6 +135,8 @@ http://gg.gg/vtv3hdtv
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 HD
 http://gg.gg/vtv4hdtv
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 HD
+http://gg.gg/vtv5hdtv
+#EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 Tây Nam Bộ
 http://gg.gg/vtv5tnb
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/vtv5-tay-nguyen.png",VTV5 Tây Nguyên
 http://gg.gg/vtv5tn
