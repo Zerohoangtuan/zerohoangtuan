@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/coocaaE" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/epgziptvvn" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #Gói HTV
 
@@ -416,19 +416,19 @@ http://gg.gg/intheboxvn
 #EXTINF:-1 tvg-id="boxhits" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX Hits HD
 http://gg.gg/boxhitsvn
 #EXTINF:-1 tvg-id="boxmovie1" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 1 HD
-http://gg.gg/boxmovie1vn
+http://gg.gg/boxmovie1vn|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-id="musicbox" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",BOX MUSIC
 http://gg.gg/boxmusicvn
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classic
-http://gg.gg/hollywoodclassicvn
+http://gg.gg/hollywoodclassicvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="man" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_MAN_V3.png",MAN
 http://gg.gg/manvn
 #EXTINF:-1 tvg-id="woman" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",WOMAN
-http://gg.gg/womanvn
+http://gg.gg/womanvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="drfithd" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr.Fit
-http://gg.gg/drfitvn
+http://gg.gg/drfitvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="planetearthhd" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet EARTH
-http://gg.gg/planetearthvn
+http://gg.gg/planetearthvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="bbcearth" group-title="VOD", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBCearth
 http://gg.gg/bbcearthvn
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="VOD", tvg-logo="https://telegramchannels.me/storage/media-logo/1901/bbc_lifestyle.jpg",BBC lifestyle
