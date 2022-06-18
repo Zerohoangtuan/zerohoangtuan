@@ -189,26 +189,48 @@ http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playli
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 #EXTINF:-1 group-title="Hàn Quốc/Korea", 한국선거방송
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1, 
 
-#EXTINF:-1, 
 
-#EXTINF:-1, 
 
-#EXTINF:-1, 
-
-#EXTINF:-1, 
-
-#EXTINF:-1, 
-
-#EXTINF:-1, 
-
-#EXTINF:-1, 
-
-#EXTINF:-1, 
-
-#EXTINF:-1, 
-
-#EXTINF:-1, 
-
-#EXTINF:-1, 
+#EXTINF:-1,SPO: beIN Sports Premium 1 HD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/13
+#EXTINF:-1,SPO: beIN Sports Premium 2 HD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/14
+#EXTINF:-1,SPO: beIN Sports Premium 3 HD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/15
+#EXTINF:-1,SPO: beIN Sports 1 HD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/16
+#EXTINF:-1,SPO: beIN Sports 2 HD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/17
+#EXTINF:-1,SPO: beIN Sports 3 HD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/18
+#EXTINF:-1,SPO: beIN Sports 4 HD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/19
+#EXTINF:-1,SPO: beIN Sports 5 HD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/20
+#EXTINF:-1,SPO: beIN Sports Pre 1 SD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/26
+#EXTINF:-1,SPO: beIN Sports Pre 2 SD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/27
+#EXTINF:-1,SPO: beIN Sports Pre 3 SD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/28
+#EXTINF:-1,SPO: beIN Sports 1 SD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/29
+#EXTINF:-1,SPO: beIN Sports 2 SD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/30
+#EXTINF:-1,SPO: beIN Sports 3 SD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/31
+#EXTINF:-1,SPO: beIN Sports 4 SD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/32
+#EXTINF:-1,SPO: beIN Sports 5 SD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/33
+#EXTINF:-1,SPORTS-ON-TIME-1
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/53
+#EXTINF:-1,SPORTS-ON-TIME-2
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/54
+#EXTINF:-1,SPORTS-ON-TIME-3
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/55
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/56
+#EXTINF:-1,beIN Sport XTRA 2 HD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/57
