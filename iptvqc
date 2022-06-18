@@ -1,32 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,Canal+ Premium HD
-http://95.211.250.54:80/CANAL+/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Canal+ FAMILY HD
-http://95.211.250.54:80/CANAL+_FAMILY/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Canal+ FILM HD
-http://95.211.250.54:80/CANAL+_FILM/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Canal+ SERIALE HD
-http://95.211.250.54:80/CANAL+_SERIALE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Canal+ SPORT HD
-http://95.211.250.54:80/CANAL+_SPORT/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Canal+ SPORT 2 HD
-http://95.211.250.54:80/CANAL+_SPORT_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Canal+ SPORT 3 HD
-http://95.211.250.54:80/CANAL+_SPORT_3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Canal+ SPORT 4 HD
-http://95.211.250.54:80/CANAL+_SPORT_4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Canal+ DOMO HD
-http://95.211.250.54:80/DOMO+_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://95.211.250.54:80/ELEVEN/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://95.211.250.54:80/ELEVEN_SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://95.211.250.54:80/ELEVEN_EXTRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://95.211.250.54:80/ELEVEN4/tracks-v1a1/mono.m3u8
+
 
 #Trung Quốc
 
