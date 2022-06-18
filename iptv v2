@@ -411,13 +411,13 @@ http://gg.gg/vinhphuctivi
 
 #Gói VOD
 
-#EXTINF:-1 tvg-id="inthebox" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",BOX Channel
+#EXTINF:-1 tvg-id="inthebox" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",IN THE BOX HD
 http://gg.gg/intheboxvn
-#EXTINF:-1 tvg-id="boxhits" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX Hits HD
+#EXTINF:-1 tvg-id="boxhits" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX HITS HD
 http://gg.gg/boxhitsvn
 #EXTINF:-1 tvg-id="boxmovie1" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 1 HD
 http://gg.gg/boxmovie1vn|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="musicbox" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",BOX MUSIC
+#EXTINF:-1  tvg-id="musicbox" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",BOX MUSIC HD
 http://gg.gg/boxmusicvn
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classic
 http://gg.gg/hollywoodclassicvn|Referer=http://sctvonline.vn/
@@ -429,7 +429,7 @@ http://gg.gg/womanvn|Referer=http://sctvonline.vn/
 http://gg.gg/drfitvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="planetearthhd" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet EARTH
 http://gg.gg/planetearthvn|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="bbcearth" group-title="VOD", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBCearth
+#EXTINF:-1 tvg-id="bbcearth" group-title="VOD", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC earth
 http://gg.gg/bbcearthvn
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="VOD", tvg-logo="https://telegramchannels.me/storage/media-logo/1901/bbc_lifestyle.jpg",BBC lifestyle
 http://gg.gg/bbclifestylevn
@@ -443,7 +443,7 @@ http://gg.gg/channelnewsasiavn
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="VOD", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel HD
 http://gg.gg/discoverychannelvn
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="VOD", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="VOD", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia HD
 http://gg.gg/discoveryasiavn
 #EXTINF:-1 tvg-id="ngchd" group-title="VOD", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NATIONAL GEOGRAPHIC HD
 http://gg.gg/nationalgeographicvn
