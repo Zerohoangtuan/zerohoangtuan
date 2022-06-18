@@ -98,7 +98,7 @@ http://cdn.us195.jpnettv.live:1935/jptv/kanto_tv_asahi_540/playlist.m3u8
 http://cdn.us195.jpnettv.live:1935/jptv/kanto_tv_tokyo_540/playlist.m3u8
 #EXTINF:-1 group-title="Nhật Bản/Japan", Nippon TV
 http://cdn.us195.jpnettv.live:1935/jptv/kanto_nippon_720/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nhật Bản", Fuji TV
+#EXTINF:-1 group-title="Nhật Bản/Japan", Fuji TV
 http://cdn.us195.jpnettv.live:1935/jptv/kanto_fuji_720/playlist.m3u8
 #EXTINF:-1 group-title="Nhật Bản/Japan", TBS
 http://cdn.us195.jpnettv.live:1935/jptv/kanto_tbs_720/playlist.m3u8
