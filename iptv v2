@@ -511,7 +511,7 @@ http://gg.gg/babytv
 #EXTINF:-1 tvg-id="cbeebies" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies HD
 http://gg.gg/cbeebies
 #EXTINF:-1 tvg-id="happykids"  group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_happy_kids.jpg",Happy Kids
-http://gg.gg/happykidsvn
+http://gg.gg/happykidsvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="boomerang" group-title="VOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334",BOOMERANG HD
 http://gg.gg/boomerangvn
 #EXTINF:-1 tvg-id="cartoonhd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK HD
