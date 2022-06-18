@@ -1,45 +1,71 @@
 #EXTM3U
 
 
+#EXTINF:-1,Canal+ Premium HD
+http://95.211.250.54:80/CANAL+/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Canal+ FAMILY HD
+http://95.211.250.54:80/CANAL+_FAMILY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Canal+ FILM HD
+http://95.211.250.54:80/CANAL+_FILM/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Canal+ SERIALE HD
+http://95.211.250.54:80/CANAL+_SERIALE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Canal+ SPORT HD
+http://95.211.250.54:80/CANAL+_SPORT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Canal+ SPORT 2 HD
+http://95.211.250.54:80/CANAL+_SPORT_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Canal+ SPORT 3 HD
+http://95.211.250.54:80/CANAL+_SPORT_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Canal+ SPORT 4 HD
+http://95.211.250.54:80/CANAL+_SPORT_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Canal+ DOMO HD
+http://95.211.250.54:80/DOMO+_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://95.211.250.54:80/ELEVEN/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://95.211.250.54:80/ELEVEN_SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://95.211.250.54:80/ELEVEN_EXTRA/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://95.211.250.54:80/ELEVEN4/tracks-v1a1/mono.m3u8
 
 
 #Trung Quốc
 
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV1 HD
+#EXTINF:-1, CCTV1 HD
 http://live.tvfix.org/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV2 HD
+#EXTINF:-1, CCTV2 HD
 http://live.tvfix.org/hls/cctv2hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV3 HD
+#EXTINF:-1, CCTV3 HD
 http://live.tvfix.org/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV4 HD
+#EXTINF:-1, CCTV4 HD
 http://live.tvfix.org/hls/cctv4hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV5 HD
+#EXTINF:-1, CCTV5 HD
 http://live.tvfix.org/hls/cctv5hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV5+ HD
+#EXTINF:-1, CCTV5+ HD
 http://live.tvfix.org/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV6 HD
+#EXTINF:-1, CCTV6 HD
 http://live.tvfix.org/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV7 HD
+#EXTINF:-1, CCTV7 HD
 http://live.tvfix.org/hls/cctv7hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV8 HD
+#EXTINF:-1, CCTV8 HD
 http://live.tvfix.org/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV9 HD
+#EXTINF:-1, CCTV9 HD
 http://live.tvfix.org/hls/cctv9hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV10 HD
+#EXTINF:-1, CCTV10 HD
 http://live.tvfix.org/hls/cctv10hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV11 HD
+#EXTINF:-1, CCTV11 HD
 http://live.tvfix.org/hls/cctv11hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV12 HD
+#EXTINF:-1, CCTV12 HD
 http://live.tvfix.org/hls/cctv12hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV13 HD
+#EXTINF:-1, CCTV13 HD
 http://live.tvfix.org/hls/cctv13hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV14 HD
+#EXTINF:-1, CCTV14 HD
 http://live.tvfix.org/hls/cctv14hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV15 HD
+#EXTINF:-1, CCTV15 HD
 http://live.tvfix.org/hls/cctv15hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV16 HD
+#EXTINF:-1, CCTV16 HD
 http://live.tvfix.org/hls/cctv16hd.m3u8
-#EXTINF:-1 group-title="Trung Quốc/China", CCTV17 HD
+#EXTINF:-1, CCTV17 HD
 http://live.tvfix.org/hls/cctv17hd.m3u8
 
 #EXTINF:-1 group-title="Trung Quốc/China", An Huy HD
