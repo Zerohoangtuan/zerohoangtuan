@@ -191,10 +191,14 @@ http://gg.gg/oncine|Referer=http://sctvonline.vn/
 http://gg.gg/onfootball|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/YcnJFBD/cab18.webp",ON SPORTS NEWS
 
+#EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="VTVcab" tvg-logo="",ON VOLLEYBALL HD
+http://gg.gg/onvolleyball
 #EXTINF:0 tvg-id="vtvcab23hd" group-title= "VTVcab" tvg-logo="https://i.ibb.co/x29NNWG/cab23.webp",ON GOLF
-
-#EXTINF:-1 tvg-id="onvff" group-title="VTVcab" tvg-logo="https://i.ibb.co/dfYxLmq/ONVFF-BEARTV.png", ON VFF
-
+http://gg.gg/ongolfvn
+#EXTINF:-1 tvg-id="onvff" group-title="VTVcab" tvg-logo="https://i.ibb.co/dfYxLmq/ONVFF-BEARTV.png", ON VFF HD
+http://gg.gg/onvffvn
+#EXTINF:0 tvg-id="" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/PYbZ8bs/ongolf-eng.webp",ON GOLF ENG HD
+http://gg.gg/ongolfeng
 
 #Gói K+
 
