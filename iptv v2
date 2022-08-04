@@ -175,7 +175,7 @@ https://s.id/cccab17|Referer=http://sctvonline.vn/
 https://s.id/vtvcab19|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/VTVCab_20.png",VTVcab20 - VFamily
 https://s.id/cccab20|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtvcab21hd" type="stream" group-title="🇻| VTVcab" tvg-logo="https://i.ibb.co/0YnrKgZ/VCab21-cc.webp",VTVcab21 - BiBi+ HD
+#EXTINF:0 tvg-id="vtvcab21hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/0YnrKgZ/VCab21-cc.webp",VTVcab21 - BiBi+ HD
 https://s.id/cccab21
 #EXTINF:0 tvg-id="vtvcab22hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/sKDXS18/VCab22-cc.webp",VTVcab22 - LIFE TV HD
 https://s.id/cccab22
