@@ -418,7 +418,7 @@ http://gg.gg/boxhitsvn
 #EXTINF:-1 tvg-id="boxmovie1" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 1 HD
 http://gg.gg/boxmovie1vn|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-id="musicbox" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",BOX MUSIC HD
-http://gg.gg/boxmusicvn
+http://gg.gg/boxmusicvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classic
 http://gg.gg/hollywoodclassicvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="man" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_MAN_V3.png",MAN
