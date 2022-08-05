@@ -493,7 +493,7 @@ http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:0 tvg-id="abcaustralia" roup-title="VOD" tvg-logo="https://i.ibb.co/VwXYCMt/ABCAustralia-cc.png",ABC Australia
 https://vips-livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8?cc
-#EXTINF:0 tvg-id="dw" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW
+#EXTINF:0 tvg-id="dw" group-title="VOD" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW
 https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:-1 tvg-id="" group-title="VOD" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/214.png", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
