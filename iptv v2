@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
+#Đã update list kênh vào 02/09/2022
+
 #Gói HTV
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Large_htv1.png",HTV1 - TH TPHCM
@@ -440,11 +442,11 @@ https://dl.dropboxusercontent.com/s/m2fp0v246769390/hls/planetearth/index.m3u8?c
 #EXTINF:-1 tvg-id="bbcearth" group-title="VOD", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="VOD", tvg-logo="https://telegramchannels.me/storage/media-logo/1901/bbc_lifestyle.jpg",BBC lifestyle
-https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8?cc
+https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1200px-BBC_World_News_2019.svg.png",BBC WORLD NEWS
-https://vips-livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8?cc
+https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",CNN
-https://livecdn.fptplay.net/sdb/cnn_hls.smil/chunklist_b2500000.m3u8?cc
+https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png",Channel News Asia
 https://vips-livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:-1 tvg-id="dmaxhd" group-title="VOD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/dmax_it%2520%2528Custom%2529.png",DMAX
@@ -478,7 +480,7 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8?
 #EXTINF:-1 tvg-id="arirang" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",arirang
 https://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0  tvg-id="paramouthd" group-title="VOD" tvg-logo="https://i.ibb.co/n0FqTt8/Paramount-cc.png",Paramount CHANNEL
-http://cdn.zaltv.xyz/1656378667/vietteltv_live/paramount.stream/index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
 #EXTINF:-1 tvg-id="kbs_world" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS WORLD
 https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:-1 tvg-id="nhk_world" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK WORLD
@@ -492,7 +494,7 @@ http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3
 #EXTINF:-1 tvg-id="tlchd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png",TLC
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:0 tvg-id="abcaustralia" roup-title="VOD" tvg-logo="https://i.ibb.co/VwXYCMt/ABCAustralia-cc.png",ABC Australia
-https://vips-livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8?cc
+https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="dw" group-title="VOD" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW
 https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:-1 tvg-id="" group-title="VOD" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/214.png", CGTN
@@ -502,13 +504,13 @@ https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3
 #EXTINF:-1 tvg-id="tv5monde" group-title="VOD" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/219.png",TV5 MONDE ASIE
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:-1 tvg-id="bloomberg" group-title="VOD", tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/98/Bloomberg_Television_%282016-.n.v.%29.png/revision/latest?cb=20200102142902",bloomberg
-https://vips-livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8?cc
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",FRENCE 24
 https://vips-livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:-1 group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV HD
-http://cdn.zaltv.xyz/1656378667/vietteltv_live/hgtv.stream/index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
 #EXTINF:-1 tvg-id="hits" group-title="VOD" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/images-mkt/hits-channel-logo.png",HITS HD
-http://cdn.zaltv.xyz/1656378667/vietteltv_live/hit.stream/index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/tv360/107/2
 #EXTINF:-1 tvg-id="cnbc" group-title="VOD" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/250.png", CNBC
 https://vips-livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:-1 tvg-id="animaxhd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX HD
