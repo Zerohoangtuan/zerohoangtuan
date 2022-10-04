@@ -427,9 +427,9 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8?cc
 #Gói VOD
 
 #EXTINF:-1 tvg-id="inthebox" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",IN THE BOX HD
-https://vietanhtv.xyz/nethub.php?id=9336&itb=1
+http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:intheboxhd/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX HITS HD
-https://vietanhtv.xyz/nethub.php?id=9330&itb=1
+https://vietanhtv.xyz/mytv_ott.php?boxhits
 #EXTINF:-1 tvg-id="boxmovie1" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 1 HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-id="musicbox" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",BOX MUSIC HD
@@ -437,13 +437,13 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http:/
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classic
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="man" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_MAN_V3.png",MAN
-https://vietanhtv.xyz/nethub.php?id=9332&itb=1
+http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:manhd/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",WOMAN
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="drfithd" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="planetearthhd" group-title="VOD" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet EARTH
-https://dl.dropboxusercontent.com/s/m2fp0v246769390/hls/planetearth/index.m3u8?cc|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="bbcearth" group-title="VOD", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="VOD", tvg-logo="https://telegramchannels.me/storage/media-logo/1901/bbc_lifestyle.jpg",BBC lifestyle
