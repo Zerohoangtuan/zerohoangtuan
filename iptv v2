@@ -486,7 +486,7 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:-1 tvg-id="arirang" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",arirang
 https://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8?cc
-#EXTINF:0  tvg-id="paramouthd" group-title="VOD" tvg-logo="https://i.ibb.co/n0FqTt8/Paramount-cc.png",Paramount CHANNEL
+#EXTINF:0  tvg-id="paramouthd" group-title="VOD" tvg-logo="https://i.ibb.co/n0FqTt8/Paramount-cc.png",Paramount NETWORK
 https://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
 #EXTINF:-1 tvg-id="kbs_world" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS WORLD
 https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8?cc
