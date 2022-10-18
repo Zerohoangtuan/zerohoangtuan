@@ -114,7 +114,7 @@ http://gg.gg/vtc9hdtv
 #EXTINF:-1 tvg-id="vtc10hd" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VTC10_logo_2018.svg/1200px-VTC10_logo_2018.svg.png",VTC10
 http://gg.gg/vtc10hdtv
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/1200px-VTC11_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC11
-http://gg.gg/vtc111hdtv
+http://gg.gg/vtc11hdtv
 #EXTINF:-1 tvg-id="vtc12hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTC12_Grey.png/revision/latest/scale-to-width-down/340?cb=20200904024746&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC12
 http://gg.gg/vtc12hdtv
 #EXTINF:-1 tvg-id="vtc13hd" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8"  group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/340?cb=20201125133758&path-prefix=vi",VTC13 HD
