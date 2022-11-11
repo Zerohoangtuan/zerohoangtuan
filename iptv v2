@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://gg.gg/coocaaE" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
-#Đã update list kênh vào 18/10/2022
+#Đã update list kênh vào 11/11/2022
 
 #Nhóm kênh HTV
 
@@ -193,11 +193,11 @@ http://gg.gg/oncine|Referer=http://sctvonline.vn/
 http://gg.gg/onfootball|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/YcnJFBD/cab18.webp",ON SPORTS NEWS HD
 http://gg.gg/onsportsnews|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/nQMXzVW/cc-On-Volley.png",ON VOLLEYBALL HD
+#EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/nQMXzVW/cc-On-Volley.png",THỂ THAO VIỆT HD
 http://gg.gg/onvolleyball|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab23hd" group-title= "VTVcab" tvg-logo="https://i.ibb.co/x29NNWG/cab23.webp",ON GOLF HD
 http://gg.gg/ongolfvn|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="onvff" group-title="VTVcab" tvg-logo="https://i.ibb.co/dfYxLmq/ONVFF-BEARTV.png", ON VFF HD
+#EXTINF:-1 tvg-id="onvff" group-title="VTVcab" tvg-logo="https://i.ibb.co/dfYxLmq/ONVFF-BEARTV.png", BÓNG ĐÁ VIỆT HD
 http://gg.gg/onvffvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png", ON SPORTS ENG HD
 http://gg.gg/onsportseng|Referer=http://sctvonline.vn/
