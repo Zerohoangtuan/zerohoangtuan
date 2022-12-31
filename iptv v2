@@ -154,46 +154,48 @@ http://gg.gg/vtv5tn
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://s1.vnecdn.net/ngoisao/restruct/i/v165/weddingfair/graphics/taitro/GTTV.png",VTVcab1 HD - Vie Giải Trí
 https://api.vthanhtivi.pw/v1/getlink/vieon/vie-giai-tri-hd
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/VTVCab_4.png",VTVcab4 HD
-http://gg.gg/vtvcab4|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/FoGuNrA.png",VTVcab5 - E CHANNEL
 http://gg.gg/vtvcab5hd|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Vtvcab_7.png",VTVcab7
-http://gg.gg/vtvcab7hd|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/BiBi_logo.png/revision/latest/scale-to-width-down/340?cb=20200611122915&path-prefix=vi",VTVcab8 - BIBI HD
-http://gg.gg/vtvcab8hd|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/VTVCab_9.png",VTVcab9 - INFO TV
 http://gg.gg/vtvcab9hd|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Style_TV_%28VCTV12_old_and_VTVCab_12%29_logo.png/revision/latest/scale-to-width-down/250?cb=20200206100854",VTVcab12 - STYLE TV
 http://gg.gg/vtvcab12hdtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Vtvcab-13-doitac220216.png",VTVcab13 - VTV HYUNDAI
 http://gg.gg/vtvcab13hdtv
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/VTVCab_15.png",VTVcab15
-http://gg.gg/vtvcab15hdtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/VTVCab_17.png",VTVcab17 HD - yeah1tv
 http://gg.gg/vtvcab17hd|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://static.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png",VTVcab19 HD - Vie DRAMAS
 http://gg.gg/vtvcab19hdtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/VTVCab_20.png",VTVcab20 - VFamily
 http://gg.gg/vtvcab20hdtv|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtvcab21hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/0YnrKgZ/VCab21-cc.webp",VTVcab21 HD - BiBi+
-http://gg.gg/vtvcab21hd
-#EXTINF:0 tvg-id="vtvcab22hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/sKDXS18/VCab22-cc.webp",VTVcab22 HD - LIFE TV
-http://gg.gg/vtvcab22hd
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/07/17/1631009263299/27e1092b286f_640_360.png",Golf News HD
-http://gg.gg/golfnews
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-4-1630981226858638199107.jpg",ON PHIMVIET HD
 http://gg.gg/onphimviet|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/3r4zsVG/VCab3-cc.webp",ON SPORTS HD
 http://gg.gg/onsportsd|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab4hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/DCK2NBW/ccvcab4.webp",ON MOVIES HD
+http://gg.gg/vtvcab4|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsport_Logo_150x902.jpg",ON SPORTS+ HD
 http://gg.gg/onsportplus|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab7hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/n72n8xm/ccvcab7.webp",ON O2TV
+http://gg.gg/vtvcab7hd|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab8hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/pjtMHJW/cccvcab8.webp",ON BIBI
+http://gg.gg/vtvcab8hd|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-5-16309812268591877024141.jpg",ON Cine HD
 http://gg.gg/oncine|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab15hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/7Kh7txq/ccvcab15.webp",ON MUSIC
+http://gg.gg/vtvcab15hdtv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zbbGFsW/VCab16-cc.webp",ON FOOTBALL HD
 http://gg.gg/onfootball|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/YcnJFBD/cab18.webp",ON SPORTS NEWS HD
 http://gg.gg/onsportsnews|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab21hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/712tpSm/ccvcab21.webp",ON KIDS HD
+http://gg.gg/vtvcab21hd
+#EXTINF:0 tvg-id="vtvcab22hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/McgFF0t/ccvcab22.webp",ON LIFE HD
+http://gg.gg/vtvcab22hd
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/gVz08b4/cc-Golf-News.webp",Golf News HD
+http://gg.gg/golfnews
+#EXTINF:0 tvg-id="hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/mFBpRz2/cconbiz.jpg",On Biz HD
+http://gg.gg/onbiz
 #EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/ygPLR6S/thethaoviet.png",THỂ THAO VIỆT HD
 http://gg.gg/onvolleyball|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab23hd" group-title= "VTVcab" tvg-logo="https://i.ibb.co/x29NNWG/cab23.webp",ON GOLF HD
@@ -455,7 +457,7 @@ http://gg.gg/cnntvvn
 #EXTINF:-1 group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png",Channel News Asia
 http://gg.gg/channelnewsasiavn
 #EXTINF:-1 tvg-id="dmaxhd" group-title="VOD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/dmax_it%2520%2528Custom%2529.png",DMAX
-
+http://gg.gg/dmaxvn
 #EXTINF:-1 tvg-id="discoveryhd" group-title="VOD", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel HD
 http://gg.gg/discoverychannelvn
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="VOD", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia HD
