@@ -456,7 +456,7 @@ http://gg.gg/bbcnewsvn
 http://gg.gg/cnntvvn
 #EXTINF:-1 group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png",Channel News Asia
 http://gg.gg/channelnewsasiavn
-#EXTINF:-1 tvg-id="dmaxhd" group-title="VOD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/dmax_it%2520%2528Custom%2529.png",DMAX
+#EXTINF:-1 tvg-id="dmaxhd" group-title="VOD" tvg-logo="https://i.ibb.co/JHcx9jM/ccdmax.png",DMAX
 http://gg.gg/dmaxvn
 #EXTINF:-1 tvg-id="discoveryhd" group-title="VOD", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel HD
 http://gg.gg/discoverychannelvn
