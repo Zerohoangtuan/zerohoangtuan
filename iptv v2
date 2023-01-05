@@ -487,7 +487,7 @@ http://gg.gg/warnertvvn
 #EXTINF:-1 tvg-id="arirang" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",arirang
 http://gg.gg/arirangvn
 #EXTINF:0  tvg-id="paramouthd" group-title="VOD" tvg-logo="https://i.ibb.co/n0FqTt8/Paramount-cc.png",Paramount NETWORK
-http://gg.gg/paramountchannelvn
+
 #EXTINF:-1 tvg-id="kbs_world" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS WORLD
 http://gg.gg/kbsworldvn
 #EXTINF:-1 tvg-id="nhk_world" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK WORLD
