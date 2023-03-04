@@ -156,8 +156,6 @@ http://gg.gg/vtv5tn
 http://gg.gg/vtvcab1hdtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/FoGuNrA.png",VTVcab5 - E CHANNEL
 http://gg.gg/vtvcab5hd|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Style_TV_%28VCTV12_old_and_VTVCab_12%29_logo.png/revision/latest/scale-to-width-down/250?cb=20200206100854",VTVcab12 - STYLE TV
-http://gg.gg/vtvcab12hdtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Vtvcab-13-doitac220216.png",VTVcab13 - VTV HYUNDAI
 http://gg.gg/vtvcab13hdtv
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/VTVCab_17.png",VTVcab17 HD - yeah1tv
@@ -180,6 +178,8 @@ http://gg.gg/vtvcab8hd|Referer=http://sctvonline.vn/
 http://gg.gg/vtvcab9hd|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-5-16309812268591877024141.jpg",ON Cine HD
 http://gg.gg/oncine|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/JccZ6Lb/cocab12.webp",ON STYLE TV
+http://gg.gg/vtvcab12hdtv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab15hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/7Kh7txq/ccvcab15.webp",ON MUSIC
 http://gg.gg/vtvcab15hdtv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zbbGFsW/VCab16-cc.webp",ON FOOTBALL HD
@@ -193,23 +193,23 @@ http://gg.gg/vtvcab21hd
 #EXTINF:0 tvg-id="vtvcab22hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/McgFF0t/ccvcab22.webp",ON LIFE HD
 http://gg.gg/vtvcab22hd
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/gVz08b4/cc-Golf-News.webp",Golf News HD
-http://gg.gg/golfnews
+#http://gg.gg/golfnews
 #EXTINF:0 tvg-id="hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/mFBpRz2/cconbiz.jpg",On Biz HD
-http://gg.gg/onbiz
+#http://gg.gg/onbiz
 #EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/ygPLR6S/thethaoviet.png",THỂ THAO VIỆT HD
-http://gg.gg/onvolleyball|Referer=http://sctvonline.vn/
+#http://gg.gg/onvolleyball|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab23hd" group-title= "VTVcab" tvg-logo="https://i.ibb.co/x29NNWG/cab23.webp",ON GOLF HD
-http://gg.gg/ongolfvn|Referer=http://sctvonline.vn/
+#http://gg.gg/ongolfvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="onvff" group-title="VTVcab" tvg-logo="https://i.ibb.co/9cgCxM6/bongdaviet.png", BÓNG ĐÁ VIỆT HD
-http://gg.gg/onvffvn|Referer=http://sctvonline.vn/
+#http://gg.gg/onvffvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png", ON SPORTS ENG HD
-http://gg.gg/onsportseng|Referer=http://sctvonline.vn/
+#http://gg.gg/onsportseng|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png", ON FOOTBALL ENG HD
-http://gg.gg/onfootballeng|Referer=http://sctvonline.vn/
+#http://gg.gg/onfootballeng|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png", ON SPORTS NEWS ENG HD
-http://gg.gg/onsportsnewseng|Referer=http://sctvonline.vn/
+#http://gg.gg/onsportsnewseng|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/PYbZ8bs/ongolf-eng.webp",ON GOLF ENG HD
-http://gg.gg/ongolfeng|Referer=http://sctvonline.vn/
+#http://gg.gg/ongolfeng|Referer=http://sctvonline.vn/
 
 #Nhóm kênh K+ (không cập nhật kênh này vì có app BeeTV thay thế)
 
@@ -232,9 +232,9 @@ http://gg.gg/ongolfeng|Referer=http://sctvonline.vn/
 
 #Nhóm kênh HCATV (HanoiCab)
 
-#EXTINF:-1 tvg-id="hitv"  group-title="HanoiCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/Logo_HITV_from_2013.png/revision/latest/scale-to-width-down/200?cb=20200831064739&path-prefix=vi",HITV - HCATV 1
+#EXTINF:-1 tvg-id="hitv"  group-title="HCATV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/Logo_HITV_from_2013.png/revision/latest/scale-to-width-down/200?cb=20200831064739&path-prefix=vi",HITV - HCATV 1
 http://gg.gg/hanoicab1|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="youtv"  group-title="HanoiCab" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5d506068474815.Y3JvcCwzNzI2LDI5MTQsMCw1NQ.png",YouTV - HCATV 2
+#EXTINF:-1 tvg-id="youtv"  group-title="HCATV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5d506068474815.Y3JvcCwzNzI2LDI5MTQsMCw1NQ.png",YouTV - HCATV 2
 http://gg.gg/hanoicab2
 #EXTINF:0 tvg-id="antg"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới
 
@@ -245,7 +245,7 @@ http://gg.gg/hanoicab2
 #EXTINF: -1 group-title = "HanoiCab" tvg-logo = "https://cdn.hqth.me/logo/thumbs/103.png", PHIM HAY
 
 #EXTINF:-1, tvg-id="mtvhd" tvg-logo="https://i.gifer.com/embedded/download/QcT2.gif",MTV
-http://gg.gg/mtvvietnam
+#http://gg.gg/mtvvietnam
 
 #Nhóm kênh Địa Phương
 
@@ -297,7 +297,7 @@ http://gg.gg/binhduongtv2
 http://gg.gg/binhduongtv3
 #EXTINF:-1 tvg-id="binhduong4" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/IMovie_TV_logo_old.png/revision/latest/top-crop/width/220/height/220?cb=20200305105447",TH Bình Dương 4 HD
 http://gg.gg/binhduongtv4
-#EXTINF:-1 tvg-id="btv5hd" group-title="Địa Phương" tvg-logo="https://i.ibb.co/r6GjWJm/Binh-Duong5-cc.webp",Bình Dương 5 - SSPORT3
+#EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/r6GjWJm/Binh-Duong5-cc.webp",Bình Dương 5
 http://gg.gg/btv5sport3
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png",Bình Dương 6
 http://gg.gg/binhduongtv6
@@ -318,7 +318,7 @@ http://gg.gg/dongnaitv1
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png",Đồng Nai 2 HD
 http://gg.gg/dongnaitv2
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://i.ibb.co/WtV65qz/Dong-Nai3-cc.webp",Đồng Nai 3
-http://gg.gg/dongnaitv3
+#http://gg.gg/dongnaitv3
 #EXTINF:-1 tvg-id="dongnai9" group-title="Địa Phương" tvg-logo="https://static.skyshoptv.vn/catalog/logo.png",SKYshop - Đồng Nai 9
 
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/133794-Tayninh.png",Tây Ninh
@@ -506,7 +506,7 @@ http://gg.gg/abcaustraliavn
 http://gg.gg/dwtvvn
 #EXTINF:-1 tvg-id="" group-title="VOD" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/214.png", CGTN
 http://gg.gg/cgtnvn
-#EXTINF:-1 tvg-id="outdoorhd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png",outdoor CHANNEL HD
+#EXTINF:-1 tvg-id="outdoorhd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png",Outdoor
 http://gg.gg/outdoorvn
 #EXTINF:-1 tvg-id="tv5monde" group-title="VOD" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/219.png",TV5 MONDE ASIE
 http://gg.gg/tv5asievn
@@ -523,7 +523,7 @@ http://gg.gg/cnbcvn
 #EXTINF:-1 tvg-id="animaxhd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX HD
 http://gg.gg/animaxvn
 #EXTINF:-1 tvg-id="babyfirst" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby Frist
-http://gg.gg/babyfrist
+#http://gg.gg/babyfrist
 #EXTINF:-1 tvg-id="babytvhd" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BabyTV HD
 http://gg.gg/babytv
 #EXTINF:-1 tvg-id="cbeebies" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies HD
