@@ -12,9 +12,9 @@ https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8?cc
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8?cc
 #EXTINF:-1,VTV5 HD
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8?cc
-#EXTINF:0,VTV5 Tây Nam Bộ
+#EXTINF:0,VTV5 Tay Nam Bo
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/7
-#EXTINF:0,VTV5 Tây Nguyên
+#EXTINF:0,VTV5 Tay Nguyen
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/163
 #EXTINF:-1,VTV6 HD
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8?cc
