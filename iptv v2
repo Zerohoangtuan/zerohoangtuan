@@ -502,6 +502,8 @@ http://gg.gg/fashiontvvn
 http://gg.gg/travellivingchannelvn
 #EXTINF:0 tvg-id="abcaustralia" roup-title="Quốc Tế" tvg-logo="https://i.ibb.co/VwXYCMt/ABCAustralia-cc.png",ABC Australia
 http://gg.gg/abcaustraliavn
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/51Mscnp/NHKWorld-cc.webp",NHK World
+http://gg.gg/nhkworld-vn
 #EXTINF:0 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW
 http://gg.gg/dwtvvn
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/214.png", CGTN
