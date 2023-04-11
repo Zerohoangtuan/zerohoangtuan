@@ -195,13 +195,13 @@ http://gg.gg/vtvcab22hd
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/gVz08b4/cc-Golf-News.webp",Golf News HD
 #http://gg.gg/golfnews
 #EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/ygPLR6S/thethaoviet.png",THỂ THAO VIỆT HD
-#http://gg.gg/onvolleyball|Referer=http://sctvonline.vn/
+http://gg.gg/onvolleyball|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab23hd" group-title= "VTVcab" tvg-logo="https://i.ibb.co/x29NNWG/cab23.webp",ON GOLF HD
 #http://gg.gg/ongolfvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="onvff" group-title="VTVcab" tvg-logo="https://i.ibb.co/9cgCxM6/bongdaviet.png", BÓNG ĐÁ VIỆT HD
-#http://gg.gg/onvffvn|Referer=http://sctvonline.vn/
+http://gg.gg/onvffvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720x405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg", ON SPORTS ACTION - BTV5 HD
-#http://gg.gg/onsportsaction
+http://gg.gg/onsportsaction
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png", ON SPORTS ENG HD
 #http://gg.gg/onsportseng|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png", ON FOOTBALL ENG HD
