@@ -17,7 +17,7 @@ http://gg.gg/htvkey
 http://gg.gg/htv7tv
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.ibb.co/tqvWY3q/HTV9-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV9 HD
 http://gg.gg/htv9tv
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/GTnjzYB/HTVThe-Thao.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV Thể Thao
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/GTnjzYB/HTVThe-Thao.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV THỂ THAO HD
 http://gg.gg/htvthethaohd
 #EXTINF:-1 tvg-id="htvc_coop" group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/200872-HTVCoop.png",HTV CO.OP
 http://gg.gg/htvcoop
@@ -154,20 +154,18 @@ http://gg.gg/vtv5tn
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/fQFFZTS/vtvcab1.webp",VTVcab1 HD - Vie GIẢI TRÍ
 http://gg.gg/vtvcab1hdtv|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/FoGuNrA.png",VTVcab5 - E CHANNEL
-http://gg.gg/vtvcab5hd|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Vtvcab-13-doitac220216.png",VTVcab13 - VTV HYUNDAI
 http://gg.gg/vtvcab13hdtv
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/VTVCab_17.png",VTVcab17 HD - yeah1tv
-http://gg.gg/vtvcab17hd|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://static.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png",VTVcab19 HD - Vie DRAMAS
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://static.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png",VTVcab19 - Vie DRAMAS
 http://gg.gg/vtvcab19hdtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-4-1630981226858638199107.jpg",ON PHIMVIET HD
 http://gg.gg/onphimviet|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/3r4zsVG/VCab3-cc.webp",ON SPORTS HD
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/3r4zsVG/VCab3-cc.webp",ON SPORTS
 http://gg.gg/onsportsd|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab4hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/DCK2NBW/ccvcab4.webp",ON MOVIES HD
 http://gg.gg/vtvcab4|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vvtvcab5hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/zmt05n3/echannel-BEARTV.png",ON E Channel
+http://gg.gg/vtvcab5hd|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsport_Logo_150x902.jpg",ON SPORTS+ HD
 http://gg.gg/onsportplus|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab7hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/n72n8xm/ccvcab7.webp",ON O2TV
@@ -183,9 +181,11 @@ http://gg.gg/vtvcab12hdtv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab15hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/7Kh7txq/ccvcab15.webp",ON MUSIC
 http://gg.gg/vtvcab15hdtv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zbbGFsW/VCab16-cc.webp",ON FOOTBALL HD
-http://gg.gg/onfootball|Referer=http://sctvonline.vn/
+#http://gg.gg/onfootball|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/Nx646LH/ontreding-BEARTV.png" ,ON TRENDING TV
+http://gg.gg/vtvcab17hd|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/YcnJFBD/cab18.webp",ON SPORTS NEWS HD
-http://gg.gg/onsportsnews|Referer=http://sctvonline.vn/
+#http://gg.gg/onsportsnews|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp",ON VFamily
 http://gg.gg/vtvcab20hdtv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab21hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/712tpSm/ccvcab21.webp",ON KIDS HD
@@ -197,19 +197,19 @@ http://gg.gg/vtvcab22hd
 #EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/ygPLR6S/thethaoviet.png",THỂ THAO VIỆT HD
 #http://gg.gg/onvolleyball|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab23hd" group-title= "VTVcab" tvg-logo="https://i.ibb.co/x29NNWG/cab23.webp",ON GOLF HD
-http://gg.gg/ongolfvn|Referer=http://sctvonline.vn/
+#http://gg.gg/ongolfvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="onvff" group-title="VTVcab" tvg-logo="https://i.ibb.co/9cgCxM6/bongdaviet.png", BÓNG ĐÁ VIỆT HD
-http://gg.gg/onvffvn|Referer=http://sctvonline.vn/
+#http://gg.gg/onvffvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720x405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg", ON SPORTS ACTION - BTV5 HD
-http://gg.gg/onsportsaction
+#http://gg.gg/onsportsaction
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png", ON SPORTS ENG HD
-http://gg.gg/onsportseng|Referer=http://sctvonline.vn/
+#http://gg.gg/onsportseng|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png", ON FOOTBALL ENG HD
-http://gg.gg/onfootballeng|Referer=http://sctvonline.vn/
+#http://gg.gg/onfootballeng|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png", ON SPORTS NEWS ENG HD
-http://gg.gg/onsportsnewseng|Referer=http://sctvonline.vn/
+#http://gg.gg/onsportsnewseng|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/PYbZ8bs/ongolf-eng.webp",ON GOLF ENG HD
-http://gg.gg/ongolfeng|Referer=http://sctvonline.vn/
+#http://gg.gg/ongolfeng|Referer=http://sctvonline.vn/
 
 #Nhóm kênh K+ (không cập nhật kênh này vì có app BeeTV thay thế)
 
@@ -238,14 +238,6 @@ http://gg.gg/hanoicab1|Referer=http://sctvonline.vn/
 http://gg.gg/hanoicab2
 #EXTINF:0 tvg-id="antg"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới
 http://gg.gg/hanoicab3
-#EXTINF:0 tvg-id="hanoicab4"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/4mH7P3Y/Hanoicab4-cc.webp",MOV
-
-#EXTINF:0 tvg-id="hanoicab5"  group-title="HanoiCab" tvg-logo="https://i.ibb.co/d6FpwN0/Hanoicab5.png",HCATV 5
-
-#EXTINF: -1 group-title = "HanoiCab" tvg-logo = "https://cdn.hqth.me/logo/thumbs/103.png", PHIM HAY
-
-#EXTINF:-1, tvg-id="mtvhd" tvg-logo="https://i.gifer.com/embedded/download/QcT2.gif",MTV
-#http://gg.gg/mtvvietnam
 
 #Nhóm kênh Địa Phương
 
