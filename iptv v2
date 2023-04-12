@@ -517,7 +517,7 @@ http://gg.gg/france24vn
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX HD
 http://gg.gg/animaxvn
 #EXTINF:-1 tvg-id="babyfirst" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby Frist
-http://gg.gg/babyfrist
+# http://gg.gg/babyfrist
 #EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BabyTV HD
 http://gg.gg/babytv
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies HD
