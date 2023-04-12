@@ -449,7 +449,7 @@ http://gg.gg/cnntvvn
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png",Channel News Asia
 http://gg.gg/channelnewsasiavn
 #EXTINF:-1 tvg-id="dmaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/JHcx9jM/ccdmax.png",DMAX
-http://gg.gg/dmaxvn
+# http://gg.gg/dmaxvn
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel HD
 http://gg.gg/discoverychannelvn
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia HD
@@ -459,11 +459,11 @@ http://gg.gg/nationalgeographicvn
 #EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",NATGEO WILD HD
 http://gg.gg/netgeowildvn
 #EXTINF:-1 tvg-id="blueantent" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/g6zym2b/Blue-Ant-Ent-cc.webp",BLUE ANT ENTERTAINMENT HD
-http://gg.gg/blueantentvn
+# http://gg.gg/blueantentvn
 #EXTINF:-1 tvg-id="blueantext" group-title="Quốc Tế", tvg-logo="https://i.ibb.co/3TyW9DX/Blue-Ant-Etx-cc.png",BLUE ANT EXTREME HD
-http://gg.gg/blueantext
+# http://gg.gg/blueantext
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network HD
-http://gg.gg/asianfoodchannelvn
+# http://gg.gg/asianfoodchannelvn
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD
 http://gg.gg/animalplanetvn
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN HD
@@ -509,15 +509,15 @@ http://gg.gg/bloombergvn
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",FRENCE 24
 http://gg.gg/france24vn
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV HD
-http://gg.gg/hgtvvn
+#http://gg.gg/hgtvvn
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/images-mkt/hits-channel-logo.png",HITS HD
-http://gg.gg/hitsvn
+#http://gg.gg/hitsvn
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/250.png", CNBC
-http://gg.gg/cnbcvn
+# http://gg.gg/cnbcvn
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX HD
 http://gg.gg/animaxvn
 #EXTINF:-1 tvg-id="babyfirst" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby Frist
-#http://gg.gg/babyfrist
+http://gg.gg/babyfrist
 #EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BabyTV HD
 http://gg.gg/babytv
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies HD
@@ -531,4 +531,4 @@ http://gg.gg/cartoonnetworkvn
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",Da Vinci HD
 http://gg.gg/davincivn
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/top-crop/width/360/height/360?cb=20171127143327",DreamWorks HD
-http://gg.gg/dreamworksvn
+# http://gg.gg/dreamworksvn
