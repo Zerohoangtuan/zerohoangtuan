@@ -164,7 +164,7 @@ http://gg.gg/onphimviet|Referer=http://sctvonline.vn/
 http://gg.gg/onsportsd|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab4hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/DCK2NBW/ccvcab4.webp",ON MOVIES HD
 http://gg.gg/vtvcab4|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vvtvcab5hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/zmt05n3/echannel-BEARTV.png",ON E Channel
+#EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zmt05n3/echannel-BEARTV.png",ON E Channel
 http://gg.gg/vtvcab5hd|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsport_Logo_150x902.jpg",ON SPORTS+ HD
 http://gg.gg/onsportplus|Referer=http://sctvonline.vn/
@@ -182,7 +182,7 @@ http://gg.gg/vtvcab12hdtv|Referer=http://sctvonline.vn/
 http://gg.gg/vtvcab15hdtv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zbbGFsW/VCab16-cc.webp",ON FOOTBALL HD
 #http://gg.gg/onfootball|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/Nx646LH/ontreding-BEARTV.png" ,ON TRENDING TV
+#EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/Nx646LH/ontreding-BEARTV.png" ,ON TRENDING TV
 http://gg.gg/vtvcab17hd|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/YcnJFBD/cab18.webp",ON SPORTS NEWS HD
 #http://gg.gg/onsportsnews|Referer=http://sctvonline.vn/
