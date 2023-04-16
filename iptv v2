@@ -27,9 +27,7 @@ http://gg.gg/htvcoop
 
 #Nhóm kênh HTVC
 
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png",HTVC THUẦN VIỆT
-http://gg.gg/htvcthuanviet
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/HTVC_Vietnamese_HD.png/revision/latest?cb=20210131021250&path-prefix=vi",HTVC THUẦN VIỆT HD
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png",HTVC THUẦN VIỆT
 http://gg.gg/htvcthuanviethd
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/HTVC_Ca_Nh%E1%BA%A1c_old.png/revision/latest?cb=20210131022321&path-prefix=vi",HTVC CA NHẠC HD
 http://gg.gg/htvccanhac
