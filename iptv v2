@@ -429,19 +429,19 @@ http://gg.gg/boxmovie1vn|Referer=http://sctvonline.vn/
 http://gg.gg/boxmusicvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",Hollywood Classic
 http://gg.gg/hollywoodclassicvn|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="man" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_MAN_V3.png",MAN
+#EXTINF:-1 tvg-id="man" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Yj6BTzZ/Man-cc.webp",MAN
 http://gg.gg/manvn
-#EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",WOMAN
+#EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png",WOMAN
 http://gg.gg/womanvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/n0DZ21g/ccdrfit.webp",Dr.Fit
 http://gg.gg/drfitvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet EARTH
 http://gg.gg/planetearthvn|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế", tvg-logo="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",BBC earth
 http://gg.gg/bbcearthvn
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế", tvg-logo="https://telegramchannels.me/storage/media-logo/1901/bbc_lifestyle.jpg",BBC lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế", tvg-logo="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",BBC lifestyle
 http://gg.gg/bbclifestylevn
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1200px-BBC_World_News_2019.svg.png",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/xhkpZC2/bbcnews.webp",BBC WORLD NEWS
 http://gg.gg/bbcnewsvn
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",CNN
 http://gg.gg/cnntvvn
