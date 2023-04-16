@@ -419,23 +419,23 @@ http://gg.gg/vinhphuctivi
 
 #Nhóm kênh Quốc Tế
 
-#EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",IN THE BOX HD
+#EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",IN THE BOX HD
 http://gg.gg/boxchannelvn
-#EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX HITS HD
+#EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",BOX HITS HD
 http://gg.gg/boxhitsvn
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE 1 HD
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX MOVIE 1 HD
 http://gg.gg/boxmovie1vn|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",BOX MUSIC HD
+#EXTINF:-1  tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",BOX MUSIC HD
 http://gg.gg/boxmusicvn|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classic
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",Hollywood Classic
 http://gg.gg/hollywoodclassicvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="man" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_MAN_V3.png",MAN
 http://gg.gg/manvn
 #EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",WOMAN
 http://gg.gg/womanvn|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="drfithd" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr.Fit
+#EXTINF:-1 tvg-id="drfithd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/n0DZ21g/ccdrfit.webp",Dr.Fit
 http://gg.gg/drfitvn|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet EARTH
+#EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet EARTH
 http://gg.gg/planetearthvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC earth
 http://gg.gg/bbcearthvn
@@ -508,9 +508,9 @@ http://gg.gg/bloombergvn
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",FRENCE 24
 http://gg.gg/france24vn
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV HD
-#http://gg.gg/hgtvvn
+http://gg.gg/hgtvvn
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/images-mkt/hits-channel-logo.png",HITS HD
-#http://gg.gg/hitsvn
+http://gg.gg/hitsvn
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/250.png", CNBC
 # http://gg.gg/cnbcvn
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX HD
@@ -521,7 +521,7 @@ http://gg.gg/animaxvn
 http://gg.gg/babytv
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies HD
 http://gg.gg/cbeebies
-#EXTINF:-1 tvg-id="happykids"  group-title="Quốc Tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_happy_kids.jpg",Happy Kids
+#EXTINF:-1 tvg-id="happykids"  group-title="Quốc Tế" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
 http://gg.gg/happykidsvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334",BOOMERANG HD
 http://gg.gg/boomerangvn
