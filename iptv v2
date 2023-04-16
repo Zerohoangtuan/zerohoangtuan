@@ -456,7 +456,7 @@ http://gg.gg/discoveryasiavn
 #EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NATIONAL GEOGRAPHIC HD
 http://gg.gg/nationalgeographicvn
 #EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",NATGEO WILD HD
-http://gg.gg/netgeowildvn
+#http://gg.gg/netgeowildvn
 #EXTINF:-1 tvg-id="blueantent" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/g6zym2b/Blue-Ant-Ent-cc.webp",BLUE ANT ENTERTAINMENT HD
 # http://gg.gg/blueantentvn
 #EXTINF:-1 tvg-id="blueantext" group-title="Quốc Tế", tvg-logo="https://i.ibb.co/3TyW9DX/Blue-Ant-Etx-cc.png",BLUE ANT EXTREME HD
