@@ -3,6 +3,9 @@
 #Đã update list kênh vào 11/11/2022 (link sẽ được cập nhật nếu có kênh ko xem được)
 #Vui lòng ko sao chép link nếu ko có sự cho phép
 
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo-2.png",FPT Play
+https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
+
 #Nhóm kênh HTV
 
 #EXTINF:0 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/XkLGs0C/HTV1-cc.webp",HTV1
