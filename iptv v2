@@ -437,9 +437,9 @@ http://gg.gg/womanvn|Referer=http://sctvonline.vn/
 http://gg.gg/drfitvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet EARTH
 http://gg.gg/planetearthvn|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế", tvg-logo="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",BBC earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế", tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC earth
 http://gg.gg/bbcearthvn
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế", tvg-logo="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",BBC lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế", tvg-logo="https://i.ibb.co/HDTd5sj/bbclifestyle.png",BBC lifestyle
 http://gg.gg/bbclifestylevn
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/xhkpZC2/bbcnews.webp",BBC WORLD NEWS
 http://gg.gg/bbcnewsvn
@@ -471,7 +471,7 @@ http://gg.gg/axnvn
 http://gg.gg/hbohdvn
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX HD
 http://gg.gg/cinemaxvn
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",CinemaWorld
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/ZLyzk6t/cc-Cinema-World.webp",CinemaWorld
 http://gg.gg/cinemaworldvn
 #EXTINF:0  tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/79/42/27/7942275bccc3ba8a635b9d88d34efdd1.png",WARNER BROS HD
 http://gg.gg/warnertvvn
@@ -497,11 +497,11 @@ http://gg.gg/abcaustraliavn
 http://gg.gg/nhkworld-vn
 #EXTINF:0 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW
 http://gg.gg/dwtvvn
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/214.png", CGTN
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png", CGTN
 http://gg.gg/cgtnvn
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png",Outdoor
 http://gg.gg/outdoorvn
-#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/219.png",TV5 MONDE ASIE
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Js5d6Bc/tv5.png",TV5 MONDE ASIE
 http://gg.gg/tv5asievn
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế", tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/98/Bloomberg_Television_%282016-.n.v.%29.png/revision/latest?cb=20200102142902",bloomberg
 http://gg.gg/bloombergvn
@@ -523,11 +523,11 @@ http://gg.gg/babytv
 http://gg.gg/cbeebies
 #EXTINF:-1 tvg-id="happykids"  group-title="Quốc Tế" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
 http://gg.gg/happykidsvn|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",BOOMERANG HD
+#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/8gbrkx5/ccboomerang-svg.png",BOOMERANG HD
 http://gg.gg/boomerangvn
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK HD
 http://gg.gg/cartoonnetworkvn
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",Da Vinci HD
 http://gg.gg/davincivn
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/top-crop/width/360/height/360?cb=20171127143327",DreamWorks HD
-# http://gg.gg/dreamworksvn
+http://gg.gg/dreamworksvn
