@@ -3,7 +3,7 @@
 #Đã update list kênh vào 21/05/2023
 #Vui lòng ko sao chép link nếu ko có sự cho phép
 
-#EXTINF:0 group-title="VTVcab" tvg-logo="https://fptplay.vn/images/logo-2.png",FPT Play
+#EXTINF:0 group-title="FPT Play" tvg-logo="https://fptplay.vn/images/logo-2.png",FPT Play
 https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
 
 #Nhóm kênh HTV
@@ -635,4 +635,4 @@ https://106d4d2f4.vws.vegacdn.vn/live_dzones/cn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",Da Vinci HD
 http://gg.gg/davincivn
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/top-crop/width/360/height/360?cb=20171127143327",DreamWorks HD
-http://gg.gg/dreamworksvn
+# http://gg.gg/dreamworksvn
