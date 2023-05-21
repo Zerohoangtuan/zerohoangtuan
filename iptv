@@ -3,7 +3,7 @@
 #Đã update list kênh vào 21/05/2023
 #Vui lòng ko sao chép link nếu ko có sự cho phép
 
-#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo-2.png",FPT Play
+#EXTINF:0 group-title="VTVcab" tvg-logo="https://fptplay.vn/images/logo-2.png",FPT Play
 https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
 
 #Nhóm kênh HTV
@@ -206,7 +206,7 @@ http://gg.gg/vtvcab22hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onvolley
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVOLLEYBALL/manifest.mpd
-#EXTINF:0 tvg-id="vtvcab23hd" group-title= "VTVcab" tvg-logo="https://i.ibb.co/x29NNWG/cab23.webp",ON GOLF HD
+#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/x29NNWG/cab23.webp",ON GOLF HD
 http://gg.gg/ongolfvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="onvff" group-title="VTVcab" tvg-logo="https://i.ibb.co/9cgCxM6/bongdaviet.png", BÓNG ĐÁ VIỆT HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
