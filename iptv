@@ -621,7 +621,7 @@ https://106d4d2f4.vws.vegacdn.vn/live_dzones/animax.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies
 http://gg.gg/cbeebies
 #EXTINF:-1 tvg-id="happykids"  group-title="Quốc Tế" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
-http://gg.gg/happykidsvn|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?Khanggne|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/8gbrkx5/ccboomerang-svg.png",BOOMERANG
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
