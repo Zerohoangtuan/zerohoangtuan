@@ -581,7 +581,7 @@ https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=596
 https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
-#EXTINF:0 tvg-id="abcaustralia" roup-title="Quốc Tế" tvg-logo="https://i.ibb.co/VwXYCMt/ABCAustralia-cc.png",ABC Australia
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/VwXYCMt/ABCAustralia-cc.png",ABC Australia
 http://gg.gg/abcaustraliavn|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/51Mscnp/NHKWorld-cc.webp",NHK World
 http://gg.gg/nhkworld-vn
