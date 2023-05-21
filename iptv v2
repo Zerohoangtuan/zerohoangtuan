@@ -438,7 +438,10 @@ http://gg.gg/drfitvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet EARTH
 http://gg.gg/planetearthvn|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế", tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC earth
-http://gg.gg/bbcearthvn
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=517
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế", tvg-logo="https://i.ibb.co/HDTd5sj/bbclifestyle.png",BBC lifestyle
 http://gg.gg/bbclifestylevn
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/xhkpZC2/bbcnews.webp",BBC WORLD NEWS
