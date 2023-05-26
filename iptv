@@ -5,23 +5,21 @@
 
 #EXTINF:0 group-title="FPT Play" tvg-logo="https://fptplay.vn/images/logo-2.png",FPT Play
 https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="FPT Play" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
-https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 
 #Nhóm kênh HTV
 
 #EXTINF:0 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/XkLGs0C/HTV1-cc.webp",HTV1
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.ibb.co/q99PxTH/cchtv2.webp",HTV2
-https://livecdn.fptplay.net/hda1/htv2hd_1500.stream/chunklist.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/s6gVdnY/cchtv3.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV3
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/chunks.m3u8
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/htv4/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/McQ45Y9/HTV4.webp",HTVkey
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.ibb.co/C9r5gwM/HTV7-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range--${start}-${offset}.m3u8?cc",HTV7 HD
-https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.ibb.co/tqvWY3q/HTV9-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV9 HD
-https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/GTnjzYB/HTVThe-Thao.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV THỂ THAO HD
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 #EXTINF:-1 tvg-id="htvc_coop" group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/200872-HTVCoop.png",HTV CO.OP
@@ -30,26 +28,26 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720
 #Nhóm kênh HTVC
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png",HTVC THUẦN VIỆT
-https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/HTVC_Ca_Nh%E1%BA%A1c_old.png/revision/latest?cb=20210131022321&path-prefix=vi",HTVC CA NHẠC HD
-
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/HC8_M.png",HTVC DU LỊCH CUỘC SỐNG HD
-https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/HTVC_Gia_%C4%90%C3%ACnh_logo_2018.png/revision/latest/scale-to-width-down/205?cb=20210625041805&path-prefix=vi",HTVC GIA ĐÌNH HD
-https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png",HTVC PHỤ NỮ HD
-https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://2.bp.blogspot.com/-xxhwSwFIOEA/Wc8Dynd5ikI/AAAAAAAAAcE/Er46aOCAJDELh9lKz6Is4-F4Rr4OQxH5gCLcBGAs/w1200-h630-p-k-no-nu/563560-logo-kenh-phim-.png",HTVC PHIM HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="http://imageidc1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png",HTVC+ HD
-https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_vgs_shop" group-title="HTVC" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png",HTVC VGS SHOP
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
 
 #Nhóm kênh SCTV
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/SCTV1_logo_2017.png/revision/latest/scale-to-width-down/250?cb=20201119113949&path-prefix=vi",SCTV1
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8|Referer=http://sctvonline.vn/
+https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/SCTV2_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201119114104&path-prefix=vi",SCTV2 - NET Star
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest/scale-to-width-down/200?cb=20201202045951&path-prefix=vi",SCTV3 - SEE
