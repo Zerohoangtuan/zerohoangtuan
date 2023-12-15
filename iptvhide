@@ -223,26 +223,25 @@ https://code.vthanhtivi.pw/getlink/tv360/76OPH-PdDuGHCP3PxmdALw/1702575296/207/p
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/fQFFZTS/vtvcab1.webp",VTVcab1
 https://synguyen.net/api/token/e8b04eaf2ee6eb3f5b5e53f9f48365ef/getlink/onlive/id/viegiaitri
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Vtvcab-13-doitac220216.png",VTVcab13 - VTV HYUNDAI
-
+https://live-on-v2-akm.akamaized.net/manifest/vtvcab13/playlist_540p.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://static.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png",VTVcab19
 https://code.vthanhtivi.pw/getlink/tv360/kBIPWs_bUDlW_OT9TKKwoA/1702631705/177/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-4-1630981226858638199107.jpg",ON PHIMVIET
 https://code.vthanhtivi.pw/getlink/tv360/aRrJPUTPNTccrKyO6ZRLtQ/1702575296/175/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/3r4zsVG/VCab3-cc.webp",ON SPORTS HD
-
+https://synguyen.net/api/token/e8b04eaf2ee6eb3f5b5e53f9f48365ef/getlink/vieon/id/vtvcab3-on-sports
 #EXTINF:0 tvg-id="vtvcab4hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/DCK2NBW/ccvcab4.webp",ON MOVIES
 https://code.vthanhtivi.pw/getlink/tv360/RgaeystRj46Rwsse-MJOSw/1702631705/181/playlist.m3u8
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zmt05n3/echannel-BEARTV.png",ON EChannel
 https://code.vthanhtivi.pw/getlink/tv360/ZujJ84OeODAgaT3GmFHd0Q/1702631705/182/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsport_Logo_150x902.jpg",ON SPORTS+
-
+https://synguyen.net/api/token/e8b04eaf2ee6eb3f5b5e53f9f48365ef/getlink/vieon/id/vtvcab6-on-sport-plus
 #EXTINF:0 tvg-id="vtvcab7hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/n72n8xm/ccvcab7.webp",ON O2TV
-
+https://synguyen.net/api/token/e8b04eaf2ee6eb3f5b5e53f9f48365ef/getlink/onlive/id/o2tvvtvcab
 #EXTINF:0 tvg-id="vtvcab8hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/pjtMHJW/cccvcab8.webp",ON BIBI
-#EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/mzM01fs/cocab09.webp",ON INFO TV
-
+https://synguyen.net/api/token/e8b04eaf2ee6eb3f5b5e53f9f48365ef/getlink/vieon/id/vtvcab9-info-tv
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-5-16309812268591877024141.jpg",ON Cine
 #EXTVLCOPT:http-user-agent="KIIP"
 #https://livevlive.vtvcab.vn/hls/O2_TV/m20_index.m3u8
@@ -254,11 +253,11 @@ https://code.vthanhtivi.pw/getlink/vieon/vtvcab12-style-tv/playlist.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740|Referer=http://sctvonline.vn/
 #ttps://livevlive.vtvcab.vn/hls/M_CHANNEL/m20_index.m3u8
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zbbGFsW/VCab16-cc.webp",ON FOOTBALL HD
-
+https://synguyen.net/api/token/e8b04eaf2ee6eb3f5b5e53f9f48365ef/getlink/vieon/id/vtvcab16-on-football
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/Nx646LH/ontreding-BEARTV.png" ,ON TRENDING TV
 https://code.vthanhtivi.pw/getlink/tv360/FZidqkt3evPv4LOs3LAg5w/1702631705/186/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/YcnJFBD/cab18.webp",ON SPORTS NEWS
-
+https://synguyen.net/api/token/e8b04eaf2ee6eb3f5b5e53f9f48365ef/getlink/onlive/id/onsportsnews
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp",ON VFamily
 https://code.vthanhtivi.pw/getlink/tv360/PLS017Yf-sH2_C2feq00UQ/1702575296/187/playlist.m3u8
 #EXTINF:0 tvg-id="vtvcab21hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/712tpSm/ccvcab21.webp",ON KIDS HD
@@ -287,11 +286,13 @@ https://code.vthanhtivi.pw/getlink/tv360/kDy4vPhCePsLGwGf-OS2LQ/1702631705/2380/
 #Nhóm kênh HCATV (HanoiCab)
 
 #EXTINF:-1 tvg-id="hitv"  group-title="HCATV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/Logo_HITV_from_2013.png/revision/latest/scale-to-width-down/200?cb=20200831064739&path-prefix=vi",HITV - HCATV 1
-
+https://synguyen.net/api/token/e8b04eaf2ee6eb3f5b5e53f9f48365ef/getlink/mytv/id/45
 #EXTINF:-1 tvg-id="youtv"  group-title="HCATV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5d506068474815.Y3JvcCwzNzI2LDI5MTQsMCw1NQ.png",YouTV - HCATV 2
 
 #EXTINF:0 tvg-id="antg"  group-title="HCATV" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới
 
+#EXTINF:0 group-title="HCATV" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới
+https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_w147809873_b2289152.m3u8
 
 
 #Nhóm kênh Địa Phương
