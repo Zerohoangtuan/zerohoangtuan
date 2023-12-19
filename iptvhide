@@ -692,8 +692,8 @@ http://fpt.vthanhtivi.pw/Box_Hits/mpegts
 #https://coca.dl.dropboxusercontent.com/s/67k1qz14740vl5u/ 																																	 ㅤ?box.hits								 												 |Referer=https://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX MOVIE 1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/Box_Movie_1/mpegts
-#https://coca.dl.dropboxusercontent.com/s/wms41claawxdpww/ 																																 ㅤ?movie1								 												 |Referer=https://sctvonline.vn/ 
+#http://fpt.vthanhtivi.pw/Box_Movie_1/mpegts
+https://coca.dl.dropboxusercontent.com/s/wms41claawxdpww/ 																																 ㅤ?movie1								 												 |Referer=https://sctvonline.vn/ 
 #EXTINF:-1  tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",MUSIC BOX HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://coca.dl.dropboxusercontent.com/s/ewbnznsinqaqhlt/ 																																  ㅤ?music								 													 |Referer=https://sctvonline.vn/ 
