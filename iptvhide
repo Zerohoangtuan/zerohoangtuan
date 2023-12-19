@@ -636,7 +636,7 @@ https://code.vthanhtivi.pw/getlink/tv360/ChjokkwezTQjJImKgDfLkA/1702971024/77/pl
 
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Thanh_H%C3%B3a_-_TTV.svg/1200px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Thanh_H%C3%B3a_-_TTV.svg.png",Thanh Hóa
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni
 #EXTINF:-1tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://tuyenquangtv.vn/file/fb9e3a036ab59c2c016ac3618a0d3aec/fb9e3a036ab59c2c016b2c08c1835d52/062019/TTVchantrang_20190620104114.png",Tuyên Quang HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/tv360/xHxhVZMaAdVvK3KY_jf5wA/1702971024/92/playlist.m3u8
@@ -645,7 +645,7 @@ https://code.vthanhtivi.pw/getlink/tv360/xHxhVZMaAdVvK3KY_jf5wA/1702971024/92/pl
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="vinhphuc" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_%C4%90%C3%A0i_PT-TH_V%C4%A9nh_Ph%C3%BAc.svg/1280px-Logo_%C4%90%C3%A0i_PT-TH_V%C4%A9nh_Ph%C3%BAc.svg.png",Vĩnh Phúc HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 
 #Nhóm kênh Quốc Tế
 
