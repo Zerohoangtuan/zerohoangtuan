@@ -424,18 +424,20 @@ https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m
 https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://i.pinimg.com/originals/6d/d6/b3/6dd6b34d75d2c81bead40d474a6e9452.png",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/1of9wrw271upco9/ 																																																												 ㅤ?vinhlong1							 																		 |Referer=https://sctvonline.vn/ 
+https://code.vthanhtivi.pw/getlink/vieon/thvl1-hd/playlist.m3u8
+#https://coca.dl.dropboxusercontent.com/s/1of9wrw271upco9/ 																																																												 ㅤ?vinhlong1							 																		 |Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://i.pinimg.com/originals/69/09/9b/69099ba866213621ebfbae16527c0c9d.png",Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/wjvtjyo01o5ag3r/ 																																																												 ㅤ?vinhlong2							 																		 |Referer=https://sctvonline.vn/ 
+https://code.vthanhtivi.pw/getlink/vieon/thvl2-hd/playlist.m3u8
+#https://coca.dl.dropboxusercontent.com/s/wjvtjyo01o5ag3r/ 																																																												 ㅤ?vinhlong2							 																		 |Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://lichtruyenhinhtv.com/uploads/thvl3.png?1572154499",Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+https://code.vthanhtivi.pw/getlink/vieon/thvl3-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://lichtruyenhinhtv.com/uploads/thvl4.png?1572154602",Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",Đà Nẵng 1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
