@@ -679,13 +679,14 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 
+
 #Nhóm kênh Quốc Tế
 
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",IN THE BOX HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/In_The_Box/mpegts
-#https://coca.dl.dropboxusercontent.com/s/vb05w85t4tu7wed/ 																																	  ㅤ?box								 												 |Referer=https://sctvonline.vn/ 
+#http://fpt.vthanhtivi.pw/In_The_Box/mpegts
+https://coca.dl.dropboxusercontent.com/s/vb05w85t4tu7wed/ 																																	  ㅤ?box								 												 |Referer=https://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",BOX HITS HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://fpt.vthanhtivi.pw/Box_Hits/mpegts
