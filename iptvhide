@@ -768,7 +768,7 @@ http://fpt.vthanhtivi.pw/animax/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/Cartoonito_HD_2021.png/revision/latest/scale-to-width-down/998?cb=20230118063814&path-prefix=vi",Cartoonito
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://vthanhtivi.pw/cartoonito/index.m3u8
+http://fpt.vthanhtivi.pw/cartoonito/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://vthanhtivi.pw:5000/cartoon/index.m3u8
+http://fpt.vthanhtivi.pw/cartoon/index.m3u8
