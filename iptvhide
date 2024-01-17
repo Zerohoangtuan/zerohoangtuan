@@ -347,7 +347,7 @@ https://code.vthanhtivi.pw/getlink/tv360/pyhpqacfg9yYhmFDy4wi6Q/1703787448/2380/
 
 #EXTINF:-1 tvg-id="youtv"  group-title="HCATV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5d506068474815.Y3JvcCwzNzI2LDI5MTQsMCw1NQ.png",YouTV - HCATV 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/fptplay/HyHQhLsQivPhxW0RhV-V3g/1705337742/youtv/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/M8-aPxGAJrHqmHg6v7lrLA/1705506511/youtv/playlist.m3u8
 #EXTINF:0 tvg-id="antg"  group-title="HCATV" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
@@ -363,7 +363,7 @@ https://code.vthanhtivi.pw/getlink/fptplay/HyHQhLsQivPhxW0RhV-V3g/1705337742/you
 http://vnorig.vthanhtivi.pw/kkids/index.m3u8
 #EXTINF:-1 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/588?cb=20211011125849&path-prefix=vi",K+ CINE
 http://vnorig.vthanhtivi.pw/kcine/index.m3u8
-#EXTINF:-1 group-title="K+" tvg-id="kaction" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6a/Kplus_Action_logo_m%C3%A0n_h%C3%ACnh_b%E1%BA%A3n_2.png/revision/latest?cb=20231224092910&path-prefix=vi",K+ LIFE
+#EXTINF:-1 group-title="K+" tvg-id="kaction" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6a/Kplus_Action_logo_m%C3%A0n_h%C3%ACnh_b%E1%BA%A3n_2.png/revision/latest?cb=20231224092910&path-prefix=vi",K+ ACTION
 http://vnorig.vthanhtivi.pw/kaction/index.m3u8
 #EXTINF:-1 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/756?cb=20211011130430&path-prefix=vi",K+ SPORT 1
 http://vnorig.vthanhtivi.pw/ksport1/index.m3u8
