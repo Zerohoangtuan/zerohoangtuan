@@ -360,15 +360,15 @@ https://code.vthanhtivi.pw/getlink/fptplay/HyHQhLsQivPhxW0RhV-V3g/1705337742/you
 
 
 #EXTINF:-1 group-title="K+" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/568?cb=20211011130239&path-prefix=vi",K+ KIDS HD
-
+http://vnorig.vthanhtivi.pw/kkids/index.m3u8
 #EXTINF:-1 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/588?cb=20211011125849&path-prefix=vi",K+ CINE
-
-#EXTINF:-1 group-title="K+" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/524?cb=20211011130056&path-prefix=vi",K+ LIFE
-
+http://vnorig.vthanhtivi.pw/kcine/index.m3u8
+#EXTINF:-1 group-title="K+" tvg-id="kaction" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6a/Kplus_Action_logo_m%C3%A0n_h%C3%ACnh_b%E1%BA%A3n_2.png/revision/latest?cb=20231224092910&path-prefix=vi",K+ LIFE
+http://vnorig.vthanhtivi.pw/kaction/index.m3u8
 #EXTINF:-1 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/756?cb=20211011130430&path-prefix=vi",K+ SPORT 1
-
+http://vnorig.vthanhtivi.pw/ksport1/index.m3u8
 #EXTINF:-1 group-title="K+" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/774?cb=20211011130352&path-prefix=vi",K+ SPORT 2
-
+http://vnorig.vthanhtivi.pw/ksport2/index.m3u8
 #EXTINF:-1 group-title="K+" tvg-id="klive1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/K%2B_Live_1.png/revision/latest/scale-to-width-down/1000?cb=20211013135146&path-prefix=vi",K+ LIVE 1
 
 #EXTINF:-1 group-title="K+" tvg-id="klive2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/K%2B_Live_2.png/revision/latest/scale-to-width-down/1000?cb=20211013135722&path-prefix=vi",K+ LIVE 2
@@ -406,16 +406,16 @@ https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m
 https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://i.pinimg.com/originals/6d/d6/b3/6dd6b34d75d2c81bead40d474a6e9452.png",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/kYy-6D6BSA9HJqgB8HyYAw/1704445245/25/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/-TMNfGQZmeqdrBrBjTyRzQ/1705506511/25/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://i.pinimg.com/originals/69/09/9b/69099ba866213621ebfbae16527c0c9d.png",Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/axFZ-3pNT4ocYOE3oGzWKw/1704445245/26/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/IXljkp0peLP_7j_trqwDOw/1705506511/26/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://lichtruyenhinhtv.com/uploads/thvl3.png?1572154499",Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/6p_nssZ7crmneq1wDBMsHw/1704445245/219/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/EL1odbODKoqo060i2Sfotw/1705506511/219/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://lichtruyenhinhtv.com/uploads/thvl4.png?1572154602",Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/fbASp75Y708kbYhStep7RQ/1704445245/220/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/yhP3Nvopn5eP0U224MBP4w/1705506511/220/playlist.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",Đà Nẵng 1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
