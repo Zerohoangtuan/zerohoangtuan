@@ -469,7 +469,7 @@ https://ott3.nethubtv.vn/live/btv1/chunklist_1.m3u8
 
 #EXTINF:0 tvg-id="binhduong3" group-title="Địa Phương" tvg-logo="https://i.ibb.co/YTSCcrf/Binh-Duong3-cc.webp",Bình Dương 3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/fptplay/Ta2PCT42C0V67tUxBYDhsw/1705337742/binh-duong-3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="binhduong4" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/IMovie_TV_logo_old.png/revision/latest/top-crop/width/220/height/220?cb=20200305105447",TH Bình Dương 4 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
