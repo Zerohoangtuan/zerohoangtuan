@@ -37,19 +37,20 @@ https://code.vthanhtivi.pw/getlink/htv/htv1-2631/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/htv/htv2-hd-2669/playlist.m3u8
 #EXTINF:0 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/s6gVdnY/cchtv3.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/ZnhGltk9Ap3YiJzIZAMCKA/1705337742/192/playlist.m3u8
+
 #EXTINF:0 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/McQ45Y9/HTV4.webp",HTVkey
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/htv/htv-keys-2528/playlist.m3u8
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.ibb.co/C9r5gwM/HTV7-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range--${start}-${offset}.m3u8?cc",HTV7 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/fptplay/3Tx-jD9RYWeC-B9VdfNagg/1705337742/htv7-hd/playlist.m3u8
+https://coca.dl.dropboxusercontent.com/s/f66ggfxnbbtdqk1/ 																																  ㅤ?htv7 										 													 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.ibb.co/tqvWY3q/HTV9-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV9 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/fjRo7LUJLskHQc7tboojWg/1705337742/194/playlist.m3u8
+https://coca.dl.dropboxusercontent.com/s/m7i7p1ag60gbojb/ 																																 ㅤ?htv9 										 													 |Referer=https://sctvonline.vn/ 
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/GTnjzYB/HTVThe-Thao.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV THỂ THAO
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/eH-mK1FmV-RXMGKKP28KTg/1705337742/195/playlist.m3u8
+
 #EXTINF:-1 tvg-id="htvc_coop" group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/200872-HTVCoop.png",HTV CO.OP
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/htv/htv-coop-sd-31973/playlist.m3u8
