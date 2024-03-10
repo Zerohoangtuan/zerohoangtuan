@@ -345,7 +345,6 @@ https://code.vthanhtivi.pw/getlink/onlive/ontrending/93294.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://static.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/onlive/viedramas/93295.m3u8
-#https://code.vthanhtivi.pw/getlink/tv360/ZQnJngnyeFpHmkjkA7JeuQ/1704445245/177/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp",ON VFamily
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://coca.dl.dropboxusercontent.com/s/mvpcdcdy6yj3n22/ 																																 ㅤ?cab20 										 													 |Referer=https://sctvonline.vn/ 
@@ -522,7 +521,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w1168178406_b1384000.m3u
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w1270205647_b1384000.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/28/%C4%90N3-RTV_2018.png/revision/latest?cb=20211204125059&path-prefix=vi",Đồng Nai 3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/133794-Tayninh.png",Tây Ninh
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
@@ -537,7 +536,7 @@ http://ott3.nethubtv.vn/live/angiangtv/playlist.m3u8
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://www.thbt.vn/public/Home/images/THBT_logo2021.png",Bến Tre HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/z8rGSL7AH6Ai-NGxKEdK9Q/1704445245/40/playlist.m3u8
+
 #EXTINF:-1 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/CTV_Ca_Mau.png/revision/latest/scale-to-width-down/1000?cb=20211209002856&path-prefix=vi",Cà Mau HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
@@ -594,7 +593,7 @@ http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w1038357030_b584000.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/547371-Khanh-Hoa.png",Khánh Hòa HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/q8QHdslrCfrERaxBoY8TkQ/1704445245/65/playlist.m3u8
+
 #EXTINF:-1 tvg-id="phuyen" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ea/PTV_Phu_Yen.png/revision/latest/scale-to-width-down/340?cb=20201030101615&path-prefix=vi",Phú Yên HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
@@ -663,10 +662,10 @@ https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 tvg-id="namdinh" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/NTV_HD_logo_12-09-2021_b%E1%BA%A3n_4.png/revision/latest?cb=20221216095224&path-prefix=vi",Nam Định
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/1fHyHe9j1u6nkTe4YaxEsQ/1705337742/73/playlist.m3u8
+
 #EXTINF:-1 tvg-id="phutho" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/PTV_HD_Ph%C3%BA_Th%E1%BB%8D_2023.png/revision/latest?cb=20230303145906&path-prefix=vi",Phú Thọ HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/JYp937AA9_iJzEYnGC0p8A/1704445245/77/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sonla" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cc/STV_S%C6%A1n_La_c%C5%A9.png/revision/latest/scale-to-width-down/340?cb=20201020014854&path-prefix=vi",Sơn La
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
@@ -675,7 +674,7 @@ https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u
 http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni
 #EXTINF:-1tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://tuyenquangtv.vn/file/fb9e3a036ab59c2c016ac3618a0d3aec/fb9e3a036ab59c2c016b2c08c1835d52/062019/TTVchantrang_20190620104114.png",Tuyên Quang HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/tv360/sMepVsclPssAsWx8_QP18g/1704445245/92/playlist.m3u8
+
 #EXTINF:-1 group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/YTV.png/revision/latest/scale-to-width-down/340?cb=20180830135735&path-prefix=vi",Yên Bái
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
