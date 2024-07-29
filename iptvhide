@@ -13,13 +13,17 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/MyTV_logo.png/revision/latest?cb=20221227022021&path-prefix=vi", MyTV 804
 
 #EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png",TV360+ 1 HD
-
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://wintv.fun/360/2554/index.m3u8
 #EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png",TV360+ 2 HD
-
+#EXTVLCOPT:http-user-agent=VMT
+https://wintv.fun/360/1/index.m3u8
 #EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_480_270.png",TV360+ 3 HD
-
+#EXTVLCOPT:http-user-agent=VMT
+https://wintv.fun/360/148/index.m3u8
 #EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png",TV360+ 4 HD
-
+#EXTVLCOPT:http-user-agent=VMT
+https://wintv.fun/360/2458/index.m3u8
 #EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_480_270.png", TV360 Miền Tây
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
@@ -30,59 +34,53 @@ https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/63144
 
 
 #EXTINF:0 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/XkLGs0C/HTV1-cc.webp",HTV1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.ibb.co/q99PxTH/cchtv2.webp",HTV2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/zvvz2ue7oylapg3/ 																															 ㅤ?htv2 										 		 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vc.101vn.com/htv/htvcmb.php?id=2669
 #EXTINF:0 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/s6gVdnY/cchtv3.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://coca.dl.dropboxusercontent.com/s/1duii5qorjwy6qm/ 																																  ?htv3 										 													 |Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:0 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/McQ45Y9/HTV4.webp",HTVkey
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/9zx4rfvjecqzlxu/ 																																  ㅤ?htv4 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vc.101vn.com/htv/htvcmb.php?id=2528
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.ibb.co/C9r5gwM/HTV7-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range--${start}-${offset}.m3u8?cc",HTV7 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/f66ggfxnbbtdqk1/ 																																  ㅤ?htv7 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/htv7/index.m3u8
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.ibb.co/tqvWY3q/HTV9-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV9 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/m7i7p1ag60gbojb/ 																																 ㅤ?htv9 										 													 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vc.101vn.com/htv/htvcmb.php?id=2667 																																 ㅤ?htv9 										 													 |Referer=https://sctvonline.vn/ 
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/GTnjzYB/HTVThe-Thao.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV THỂ THAO
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
-#EXTINF:-1 tvg-id="htvc_coop" group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/200872-HTVCoop.png",HTV CO.OP
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/htvtt/index.m3u8
 
 
 #Nhóm kênh HTVC
 
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png",HTVC Thuần Việt
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/thuanviet/index.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/HTVC_Ca_Nh%E1%BA%A1c_old.png/revision/latest?cb=20210131022321&path-prefix=vi",HTVC Ca Nhạc
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/canhac/index.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/HC8_M.png",HTVC Du Lịch và Cuộc Sống
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://42.113.134.142:8889/udp/225.1.1.166:30120
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/HTVC_Gia_%C4%90%C3%ACnh_logo_2018.png/revision/latest/scale-to-width-down/205?cb=20210625041805&path-prefix=vi",HTVC Gia Đình
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/giadinh/index.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png",HTVC Phụ Nữ
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/phunu/index.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://2.bp.blogspot.com/-xxhwSwFIOEA/Wc8Dynd5ikI/AAAAAAAAAcE/Er46aOCAJDELh9lKz6Is4-F4Rr4OQxH5gCLcBGAs/w1200-h630-p-k-no-nu/563560-logo-kenh-phim-.png",HTVC Phim
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/htvcphim/index.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="http://imageidc1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png",HTVC+
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/htvcplus/index.m3u8
 
 
 #Nhóm kênh SCTV
@@ -90,287 +88,235 @@ https://coca.dl.dropboxusercontent.com/s/m7i7p1ag60gbojb/ 																						
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/SCTV1_logo_2017.png/revision/latest/scale-to-width-down/250?cb=20201119113949&path-prefix=vi",SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/h84lbbfxvlgha4a/ 																															  ㅤ?sctv1 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/SCTV2_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201119114104&path-prefix=vi",SCTV2 - NET Star
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/2x8gxxosls4ca1e/ 																															  ㅤ?sctv2 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest/scale-to-width-down/200?cb=20201202045951&path-prefix=vi",SCTV3 - SEE
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/w7t3qxhw4bzu8ob/ 																															  ㅤ?sctv3 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/SCTV4_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201127022644&path-prefix=vi",SCTV4
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/q2qc2yferabgg95/ 																															  ㅤ?sctv4 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e7/SCTV5.png/revision/latest/scale-to-width-down/200?cb=20201127024501&path-prefix=vi",SCTV5 - SCJ TV SHOPPING
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/m7gajbmjx2uyn7m/ 																															  ㅤ?sctv5 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/SCTV6.png/revision/latest/scale-to-width-down/200?cb=20201202050044&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8",SCTV6
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/k9z39n7zzumy2m7/ 																															  ㅤ?sctv6 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8?khichtv|Referer=http://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/SCTV6.png/revision/latest/scale-to-width-down/200?cb=20201202050044&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8",SCTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/w4mtxrd2usdxvxn/ 																															  ㅤ?sctv7 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/SCTV8_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201126061716&path-prefix=vi",SCTV8 - VITV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/jwpbp2bzopnlzr5/ 																															  ㅤ?sctv8 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.ibb.co/5hJRC4z/SCTV9.png",SCTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/ft0mgx9tngq1nid/ 																															  ㅤ?sctv9 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/SCTV10.png/revision/latest/scale-to-width-down/200?cb=20200929040024&path-prefix=vi",SCTV10 - VTV HYUNDAI
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/34sqjjt8ty52n3x/ 																															  ㅤ?sctv10 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/SCTV11_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20210821040108&path-prefix=vi",SCTV11
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/i4ffep35vg7e9i0/ 																															  ㅤ?sctv11 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/channel/sctv11/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ab/SCTV12_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201127035429&path-prefix=vi",SCTV12
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/kgzggb8q0zeyajp/ 																															  ㅤ?sctv12 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv12/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/SCTV13.png/revision/latest?cb=20201011121759",SCTV13 - lady
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/04zbrkysbtbh5je/ 																															  ㅤ?sctv13 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/SCTV14.png/revision/latest/scale-to-width-down/220?cb=20201011133906",SCTV14 - KÊNH PHIM VIỆT
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/u0l04bmxo9my0d2/ 																															  ㅤ?sctv14 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/SCTV15_SSport_2_2020.png/revision/latest/scale-to-width-down/190?cb=20210820043629&path-prefix=vi",SCTV15 - SSPORT 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/vddawpnu4j38ae9/ 																															 ㅤ?sctv15 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/SCTV16_PNNDS_logo_2021.png/revision/latest/scale-to-width-down/562?cb=20210102042335&path-prefix=vi",SCTV16
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/ermfvx63yv4jgau/ 																															  ㅤ?sctv16 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/SCTV17_SSport_2020.png/revision/latest/scale-to-width-down/190?cb=20210820120425&path-prefix=vi",SCTV17 - SSPORT
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/ubwfo5w5oticguz/ 																															 ㅤ?sctv17 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/SCTV18_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201126061119&path-prefix=vi",SCTV18
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/5ihjhd4pz8ccvu5/ 																															  ㅤ?sctv18 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest?cb=20201021060457&path-prefix=vi",SCTV19 - T CHANNEL
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/6o7s0v6q5jn86jx/ 																															  ㅤ?sctv19 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/SCTV20.png/revision/latest?cb=20201021060127&path-prefix=vi",SCTV20
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/2rr7jsyfjkaxk09/ 																															  ㅤ?sctv20 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="ssctv21hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/SCTV21.png/revision/latest?cb=20201010112424&path-prefix=vi",SCTV21 - VIỆT NAM KÝ ỨC
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/skeyka5jdesvilx/ 																															  ㅤ?sctv21 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/SCTV22_SSport_1_2020.png/revision/latest/scale-to-width-down/190?cb=20210821044018&path-prefix=vi",SCTV22 - SSPORT 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/a70l2t72rcolpou/ 																															  ㅤ?sctv22 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/54/SCTV_Phim_T%E1%BB%95ng_H%E1%BB%A3p.png/revision/latest/scale-to-width-down/200?cb=20201010101010&path-prefix=vi",SCTV PHIM TỔNG HỢP
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/t3p5u2fypg0i7o3/ 																															  ㅤ?sctv.pth 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 
 
 #Nhóm kênh VTC
 
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/vtc/images/b/ba/VTC1_logo.png/revision/latest?cb=20200808151331&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/04.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/1200px-VTC2_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtc2/index.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest/scale-to-width-down/340?cb=20201207142820&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC3/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtc3/index.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/VTC4_2018-2020.png/revision/latest/scale-to-width-down/340?cb=20201212065736&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC4 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC4/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtc4/index.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/VTC5_logo_2018.svg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC5
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC5/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtc5/index.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/1024px-VTC6_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC6
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC6/chunks.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://api.wintv.me/360/200/index.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/VTC7_logo.png/revision/latest/scale-to-width-down/340?cb=20201125094038&path-prefix=vi",today tv - VTC7
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC7/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/360/201/index.m3u8
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VTC8_logo_2018.svg/768px-VTC8_logo_2018.svg.png",VTC8
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC8/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtc8/index.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/1200px-VTC9_logo_2018.svg.png",VTC9 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC9/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtc9/index.m3u8
 #EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VTC10_logo_2018.svg/1200px-VTC10_logo_2018.svg.png",VTC10 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC10/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://api.wintv.me/360/204/index.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/1200px-VTC11_logo_2018.svg.png",VTC11
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC11/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/360/205/index.m3u8
 #EXTINF:-1 tvg-id="vtc12hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/VTC12_logo_2018.svg",VTC12
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC12/chunks.m3u8 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="vtc13hd"  group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/340?cb=20201125133758&path-prefix=vi",VTC13 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC13/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/1020px-VTC14_logo_2018.svg.png",VTC14 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/chunklist_b6192000_sleng.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtc14/index.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/VTC16_logo_2018.svg/1200px-VTC16_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC16 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1117141481.vnns.net/VTC16/chunks.m3u8
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtc16/index.m3u8
 
 
 #Nhóm kênh VTV
 
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/pk0ijhdit0q280c/ 																																																											 ㅤ?vtv1							 																		 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=VMT
+https://wintv.fun/360/2/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/c7lplr1ke566zsr/ 																																																												 ㅤ?vtv2							 																		 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/360/3/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/ylb7my8but2ccwd/ 																																																												 ㅤ?vtv3							 																		 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/360/4/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/f1adpmzxclche14/ 																																																												 ㅤ?vtv4							 																		 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/108/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",VTV7
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/f3gaq8dhsbnlyut/ 																																																												 ㅤ?vtv7								 																	 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://api.wintv.me/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/ywjkllkz5d85276/ 																																																												 ㅤ?vtv8								 																	 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://api.wintv.me/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/450px-VTV9_logo_2013_final.svg.png",VTV9
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/2nse801wb2pmd0f/ 																																																												 ㅤ?vtv9								 																	 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://api.wintv.me/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://i.ibb.co/PtJKgHX/vtvcantho.webp",VTV CẦN THƠ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/0mdi9d3mk1movxm/ 																																		 ㅤ?vtv6 										 		 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://api.wintv.me/vtv6/index.m3u8 
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/Qrt7Qmp/ccvtv5-TNB.webp",VTV5 HD Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://wintv.fun/360/157/index.m3u8
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/Fxzdz7v/ccvtv5TN.webp",VTV5 Tây Nguyên
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/x8952mvr7r6l15v/ 																																		 ㅤ?vtvtn 										 		 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://api.wintv.me/360/207/index.m3u8
 
 
 #Nhóm kênh VTVcab
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/fQFFZTS/vtvcab1.webp",ON Vie Giải Trí
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/onlive/viegiaitri/93417.m3u8
-#https://coca.dl.dropboxusercontent.com/s/xpui148aitwka7s/ 																																 ㅤ?cab1 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab1/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-4-1630981226858638199107.jpg",ON PHIMVIET
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/l1bm8moxpu0bvrk/ 																																 ㅤ?cab2 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab2/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/3r4zsVG/VCab3-cc.webp",ON SPORTS HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/2zmhpu8q5a7igie/ 																																  ㅤ?cab3 										 													 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.3
+http://113.175.71.10:4022/rtp/232.84.3.242:11374
 #EXTINF:0 tvg-id="vtvcab4hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/DCK2NBW/ccvcab4.webp",ON MOVIES
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/3rqo5jucetkmiof/ 																																 ㅤ?cab4 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab4/index.m3u8
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zmt05n3/echannel-BEARTV.png",ON EChannel
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/1w9mbfwm42gn3bb/ 																															  ㅤ?cab5 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab5/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/ON_Sports%2B_logo_10-08-2023.png/revision/latest?cb=20230816042706&path-prefix=vi",ON SPORTS+
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/93305.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab6/index.m3u8
 #EXTINF:0 tvg-id="vtvcab7hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/n72n8xm/ccvcab7.webp",ON O2TV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/bn5o9641wty2nww/ 																																 ㅤ?cab7 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab7/index.m3u8 
 #EXTINF:0 tvg-id="vtvcab8hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/pjtMHJW/cccvcab8.webp",ON BIBI
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab8/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/mzM01fs/cocab09.webp",ON INFO TV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/44s2f7849wmvws1/ 																																 ㅤ?cab9 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab9/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-5-16309812268591877024141.jpg",ON Cine
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/rqdswfbl6ubpnqv/ 																																 ㅤ?cab10 										 													 |Referer=https://sctvonline.vn/
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab10/index.m3u8
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/JccZ6Lb/cocab12.webp",ON StyleTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/pvrctluxtza0uzg/ 																																 ㅤ?cab12 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab12/index.m3u8
 #EXTINF:0 tvg-id="vtvcab15hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/7Kh7txq/ccvcab15.webp",ON MUSIC
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/psjhl8njhsni8bq/ 																																  ㅤ?cab15 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab15/index.m3u8
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zbbGFsW/VCab16-cc.webp",ON FOOTBALL HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/126xvw4vvmz14s2/ 																																 ㅤ?cab16 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/Nx646LH/ontreding-BEARTV.png" ,ON TRENDING TV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/onlive/ontrending/93294.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/186/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/YcnJFBD/cab18.webp",ON SPORTS NEWS
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#  https://coca.dl.dropboxusercontent.com/s/ul2fuakuvuax9pz/ 																																 ㅤ?cab18 										 													 |Referer=https://sctvonline.vn/  					 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://static.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png",ON Vie DRAMAS
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/onlive/viedramas/93295.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://wintv.fun/360/177/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp",ON VFamily
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/mvpcdcdy6yj3n22/ 																																 ㅤ?cab20 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/187/index.m3u8
 #EXTINF:0 tvg-id="vtvcab21hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/712tpSm/ccvcab21.webp",ON KIDS HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#  https://coca.dl.dropboxusercontent.com/s/nd0bi1wlt6jigkq/ 																																 ㅤ?cab21 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab21/index.m3u8
 #EXTINF:0 tvg-id="vtvcab22hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/McgFF0t/ccvcab22.webp",ON LIFE HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#  https://coca.dl.dropboxusercontent.com/s/j9kcf9xpzcuuje0/ 																																 ㅤ?cab22 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab22/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/ON_Golf_2022.png/revision/latest?cb=20220311023800&path-prefix=vi",ON GOLF
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/onlive/ongolf/93413.m3u8
-#https://coca.dl.dropboxusercontent.com/s/g8fec2h20wzppxd/ 																																		 ㅤ?cab23 										 													 |Referer=https://sctvonline.vn/					 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab23/index.m3u8
 #EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/ygPLR6S/thethaoviet.png",THỂ THAO VIỆT HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #EXTINF:-1 tvg-id="onvff" group-title="VTVcab" tvg-logo="https://i.ibb.co/9cgCxM6/bongdaviet.png", BÓNG ĐÁ VIỆT HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
-#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/BTV5_05-03-2023.png/revision/latest?cb=20230511043715&path-prefix=vi", ON SPORTS ACTION - BTV5 HD
+#EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/BTV5_05-03-2023.png/revision/latest?cb=20230511043715&path-prefix=vi", ON SPORTS ACTION - BTV5 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png", ON SPORTS ENG HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
@@ -395,12 +341,12 @@ https://code.vthanhtivi.pw/getlink/onlive/ongolf/93413.m3u8
 #EXTINF:0 tvg-id="antg"  group-title="HCATV" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
-#EXTINF:0 group-title="HCATV" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",HCATV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="HCATV",HCATV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://118.68.178.1:4000/udp/225.1.2.144:30120
 
 
-
-#Nhóm kênh K+ (tùy list)
+#Nhóm kênh K+ (no update)
 
 
 #EXTINF:-1 group-title="K+" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/568?cb=20211011130239&path-prefix=vi",K+ KIDS HD
@@ -425,23 +371,22 @@ https://code.vthanhtivi.pw/getlink/onlive/ongolf/93413.m3u8
 
 
 #EXTINF:-1 tvg-id="vovtvhd"  group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Lo,VOV TV HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd"  group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",VNEWS HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist_w752252013_b3128000_sleng.m3u8
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
 #EXTINF:-1 tvg-id="antvhd"  group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a5/ANTV_HD_logo_2022.png/revision/latest?cb=20220918035604&path-prefix=vi",An Ninh TV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="nhandan"  group-title="Địa Phương" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://arpt.tvic.vn/live/nhandan720/chunklist_w1856690367.m3u8
 #EXTINF:-1 tvg-id="qpvnhd"  group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",QPVN HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/03.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 #EXTINF:-1 tvg-id="quochoi"  group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",QUỐC HỘI HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://media.quochoitv.vn/live/quochoitv_1080p/stream.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa Phương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",Hà Nội 1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
@@ -449,49 +394,41 @@ https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://i.pinimg.com/originals/6d/d6/b3/6dd6b34d75d2c81bead40d474a6e9452.png",Vĩnh Long 1 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/1of9wrw271upco9/ 																																																												 ㅤ?vinhlong1							 																		 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/25/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://i.pinimg.com/originals/69/09/9b/69099ba866213621ebfbae16527c0c9d.png",Vĩnh Long 2 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/wjvtjyo01o5ag3r/ 																																																												 ㅤ?vinhlong2							 																		 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/26/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://lichtruyenhinhtv.com/uploads/thvl3.png?1572154499",Vĩnh Long 3 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/219/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://lichtruyenhinhtv.com/uploads/thvl4.png?1572154602",Vĩnh Long 4 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/220/index.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",Đà Nẵng 1 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",Đà Nẵng 2 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/BGTV_Bac_Giang.png/revision/latest/scale-to-width-down/340?cb=20201008153201",Bắc Giang HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
-#EXTINF:-1 tvg-id="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg" group-title="Địa Phương" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png?t=v2",Ninh Bình HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
-#EXTINF:-1 tvg-id="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/TBTV_logo.svg/revision/latest/scale-to-width-down/340?cb=20180727200541&path-prefix=vi",Thái Bình HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
-#EXTINF:-1 tvg-id="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TN1_Thai_Nguyen_logo.png/revision/latest/top-crop/width/300/height/300?cb=20200311054345",Thái Nguyên 1 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+#EXTINF:-1 tvg-id="bacgiang" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/BGTV_Bac_Giang.png/revision/latest/scale-to-width-down/340?cb=20201008153201",Bắc Giang HD
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+#EXTINF:-1 tvg-id="ninhbinh" group-title="Địa Phương" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png?t=v2",Ninh Bình HD
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+#EXTINF:-1 tvg-id="thaibinh" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/TBTV_logo.svg/revision/latest/scale-to-width-down/340?cb=20180727200541&path-prefix=vi",Thái Bình HD
+https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u8
+#EXTINF:-1 tvg-id="thainguyen" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TN1_Thai_Nguyen_logo.png/revision/latest/top-crop/width/300/height/300?cb=20200311054345",Thái Nguyên 1 HD
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi",Quảng Ninh 1 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://vncdn.mediatech.vn/qtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi",Quảng Ninh 3 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://vncdn.mediatech.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-id="quangninh" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi",Quảng Ninh 1 HD
+https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="quangninh3" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi",Quảng Ninh 3 HD
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png",Bình Dương 1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ott3.nethubtv.vn/live/btv1/chunklist_1.m3u8
+https://api.wintv.me/binhduong1/index.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png",Bình Dương 2 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/binhduong2/index.m3u8
 #EXTINF:0 tvg-id="binhduong3" group-title="Địa Phương" tvg-logo="https://i.ibb.co/YTSCcrf/Binh-Duong3-cc.webp",Bình Dương 3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
@@ -502,324 +439,276 @@ https://ott3.nethubtv.vn/live/btv1/chunklist_1.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/An_vi%C3%AAn_tv.png/revision/latest/scale-to-width-down/340?cb=20201010131942&path-prefix=vi",AnViên TV - BTV9
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ott3.nethubtv.vn/live/anvien/chunklist_1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/anvien/index.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png",TOP HOME SHOPPING - BTV11
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/BPTV_1997.png/revision/latest?cb=20200819145628&path-prefix=vi",Bình Phước 1 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://vncdn.mediatech.vn/bptvlive/tv1live.m3u8
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hometvbptv2" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/BPTV2_Home_TV.png/revision/latest/scale-to-width-down/340?cb=20200828114705&path-prefix=vi",Bình Phước 2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png",Đồng Nai 1 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w1168178406_b1384000.m3u8
+#EXTVLCOPT:http-user-agent=VMTTV
+https://ott4.nethubtv.vn/live/dongnaitv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png",Đồng Nai 2 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w1270205647_b1384000.m3u8
+#EXTVLCOPT:http-user-agent=VMTTV
+https://wintv.fun/360/255/index.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/28/%C4%90N3-RTV_2018.png/revision/latest?cb=20211204125059&path-prefix=vi",Đồng Nai 3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/133794-Tayninh.png",Tây Ninh
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://118.68.178.1:4000/udp/225.1.1.130:30120
 #EXTINF:-1 tvg-id="baria" group-title="Địa Phương" tvg-logo="https://www.brt.vn/static/images/logo.png",Vũng Tàu HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://118.68.178.1:4000/udp/225.1.2.175:30120
 #EXTINF:-1 tvg-id="angiang" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg/1200px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg.png",An Giang
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://ott3.nethubtv.vn/live/angiangtv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://wintv.fun/360/35/index.m3u8
 #EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/85/Logo_%C4%90%C3%A0i_PT-TH_B%E1%BA%A1c_Li%C3%AAu.png",Bạc Liêu HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://www.thbt.vn/public/Home/images/THBT_logo2021.png",Bến Tre HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/bentre/index.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/CTV_Ca_Mau.png/revision/latest/scale-to-width-down/1000?cb=20211209002856&path-prefix=vi",Cà Mau HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="Địa Phương", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png",Cần Thơ
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.canthotv.vn/live/tv/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.canthotv.vn/live/tv_web/chunklist_w43906140.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ae/TH%C4%90T_2023.png/revision/latest/scale-to-width-down/200?cb=20230801092606&path-prefix=vi",Đồng Tháp 1 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://118.69.169.41:1935/THDT/thdttv/chunklist_w459442197.m3u8
+#EXTVLCOPT:http-user-agent=ANTmedia
+http://118.68.178.1:4000/udp/225.1.1.163:30120
 #EXTINF:-1 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://lh3.googleusercontent.com/-CAU3uxyoAhE/WYneLOOOMUI/AAAAAAAADkQ/30PaTCdBYeslH-_aOXHSp2EsTj9taHAvgCLcBGAs/h120/201349-mien.tay_.png",Miền Tây - Đồng Tháp 2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://118.68.178.1:4000/udp/225.1.1.210:30120
 #EXTINF:-1 tvg-id="haugiang" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_%C4%90%C3%A0i_ph%C3%A1t_thanh_truy%E1%BB%81n_h%C3%ACnh_H%E1%BA%ADu_Giang_-_HGTV.png",Hậu Giang
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTINF:-1 tvg-id="kiengiang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/KG_Ki%C3%AAn_Giang.png/revision/latest?cb=20201025093743&path-prefix=vi",Kiên Giang
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/JzSW9W8/KIENGIANG1.png", Kiên Giang 1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 tvg-id="kiengiang1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/JzSW9W8/KIENGIANG1.png", Kiên Giang 1
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_LA34.svg/640px-Logo_LA34.svg.png",Long An 34
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/STV_logo_2004.png/revision/latest?cb=20201002101421&path-prefix=vi",Sóc Trăng 1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #EXTINF:-1 tvg-id="tiengiang" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Logo_THTG_HD.png/800px-Logo_THTG_HD.png",Tiền Giang
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://123.25.238.45:1935/live/thtg/playlist.m3u8
+http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF:-1 tvg-id="travinh" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/01/THTV_logo_b%E1%BA%A3n_2_%28THTV2%29.png/revision/latest?cb=20230119022624&path-prefix=vi",Trà Vinh HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
+https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist_w1042011176.m3u8
+#EXTINF:-1 tvg-id="travinh2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3e/THTV2_logo_01-09-2022.png/revision/latest/scale-to-width-down/200?cb=20221017022248&path-prefix=vi", Trà Vinh 2
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist_w942016872.m3u8
 #EXTINF:-1 tvg-id="binhdinh" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/BTV_Binh_Dinh_Logo_4-3.png/revision/latest?cb=20200729002318",Bình Định
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=VThanhTivi
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="Địa Phương" tvg-logo="http://www.binhthuantv.vn/wp-content/uploads/2019/07/logo21.png",Bình Thuận
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+https://64d0d74b76158.streamlock.net:443/BTVTV/binhthuantv/chunklist_w1166505719.m3u8
 #EXTINF:-1 tvg-id="ninhthuan" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/NTV_HD_Ninh_Thu%E1%BA%ADn_logo.png/revision/latest/scale-to-width-down/200?cb=20230315035948&path-prefix=vi",Ninh Thuận
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
+https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1402655020.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Dai_PT-TH_Dak_Lak.png",Đắk Lắk HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/Logo_THGL_HD_Gia_Lai_2022_%28B%E1%BA%A3n_2%2C_Logo_m%C3%A0n_h%C3%ACnh%29.png/revision/latest/scale-to-width-down/180?cb=20220524140726&path-prefix=vi",Gia Lai HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/55/index.m3u8
 #EXTINF:-1 tvg-id="kontum" group-title="Địa Phương" tvg-logo="https://kontumtv.vn/wp-content/themes/kontum/imgs/big_logo.png",Kon Tum
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 tvg-id="lamdong" group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/163936-Lamdong.png",Lâm Đồng
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w1038357030_b584000.m3u8
+http://118.68.178.1:4000/udp/225.1.2.177:30120
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/547371-Khanh-Hoa.png",Khánh Hòa HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://wintv.fun/360/65/index.m3u8
 #EXTINF:-1 tvg-id="phuyen" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ea/PTV_Phu_Yen.png/revision/latest/scale-to-width-down/340?cb=20201030101615&path-prefix=vi",Phú Yên HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+http://118.68.178.1:4000/udp/225.1.2.58:30120
 #EXTINF:-1 tvg-id="quangbinh" group-title="Địa Phương" tvg-logo="https://mytv.com.vn/upload/channel/731.png",Quảng Bình HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://ott4.nethubtv.vn/live/quangbinhtv/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="quangnam" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/QRT_Quang_Nam.png/revision/latest/scale-to-width-down/340?cb=20200214014557",Quảng Nam
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+http://118.68.178.1:4000/udp/225.1.2.50:30120
 #EXTINF:-1 tvg-id="quangngai" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/PTQ_Qu%E1%BA%A3ng_Ng%C3%A3i_%282021%2C_c%C3%B3_website%29.png/revision/latest?cb=20230316044204&path-prefix=vi",Quảng Ngãi HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_w1747857222_b1384000.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://118.68.178.1:4000/udp/225.1.2.174:30120
 #EXTINF:-1 tvg-id="quangtri" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ab/QRTV_logo_%28Quang_Tri%29.png/revision/latest/scale-to-width-down/190?cb=20211118135519&path-prefix=vi",Quảng Trị HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=VThanhTivi
 http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/NTV_logo_%28Ngh%E1%BB%87_An%29_from_200x_-_2013.png/revision/latest/scale-to-width-down/340?cb=20181024170144&path-prefix=vi",Nghệ An
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+https://cdn.mediatech.vn/natvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/04/666883-hatinh.png",Hà Tĩnh
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://wse.hatinhtv.net/live/httv1/chunklist_w1879127949.m3u8
-#EXTINF:-1 tvg-id="hue" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/TRT_logo_tr%E1%BB%B1c_ti%E1%BA%BFp_2015-2017.png/revision/latest?cb=20230710062400&path-prefix=vi",Thừa Thiên Huế
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://trtlive.f77de468.cdnviet.com/TRT-Online/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+#EXTINF:-1 tvg-id="hue" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/TRT_logo_tr%E1%BB%B1c_ti%E1%BA%BFp_2015-2017.png/revision/latest?cb=20230710062400&path-prefix=vi",Thừa Thiên Huế HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/63/index.m3u8
 #EXTINF:-1 tvg-id="baccan" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/TBK.png/revision/latest?cb=20210823053428&path-prefix=vi",Bắc Kạn HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://123.31.36.68/live.m3u8?c=vstv360&q=high&type=tv&token=1111&time=&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=&pkg=pkg11.hni
+https://wintv.fun/360/37/index.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/BTV_logo_Bac_Ninh_2021.png/revision/latest/scale-to-width-down/180?cb=20220710081936&path-prefix=vi",Bắc Ninh HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://wintv.fun/360/39/index.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/01/CRTV_1-10-2022.png/revision/latest/scale-to-width-down/180?cb=20230111041512&path-prefix=vi",Cao Bằng
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w1913809165_b1384000.m3u8
-#EXTINF:-1 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/%C4%90TV_logo_2021.png/revision/latest?cb=20230209110350&path-prefix=vi",Điện Biên
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ott4.nethubtv.vn/live/dienbientv/chunklist_1.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://118.68.178.1:4000/udp/225.1.1.102:30120
+#EXTINF:-1 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/%C4%90TV_logo_2021.png/revision/latest?cb=20230209110350&path-prefix=vi",Điện Biên HD
+http://118.68.178.1:4000/udp/225.1.1.74:30120
+# https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="hagiang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/Logo_HGTV_H%C3%A0_Giang_2023_b%E1%BA%A3n_2.png/revision/latest?cb=20231203105853&path-prefix=vi",Hà Giang
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://ott4.nethubtv.vn/live/hagiangtv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="hanam" group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/07/30/201706-HaNam.png",Hà Nam
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
+https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THD.png/revision/latest?cb=20200819143426&path-prefix=vi",Hải Dương
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&type=tv&location=NA&pkg=pkg11.hni
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://wintv.fun/360/59/index.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/THP_Logo_200x.png/revision/latest?cb=20180910165108&path-prefix=vi",Hải Phòng HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/THP_Logo_200x.png/revision/latest?cb=20180910165108&path-prefix=vi",Hải Phòng Plus HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1 tvg-id="hoabinh" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/B%E1%BA%A3ng-gi%C3%A1-qu%E1%BA%A3ng-c%C3%A1o-%C4%91%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-H%C3%B2a-B%C3%ACnh-n%C4%83m-2015-logo.jpg/revision/latest?cb=20170122110434",Hòa Bình
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://118.68.178.1:4000/udp/225.1.2.168:30120
 #EXTINF:-1 tvg-id="hungyen" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/HY_H%C6%B0ng_Y%C3%AAn_3D.png/revision/latest/scale-to-width-down/340?cb=20201205044005&path-prefix=vi",Hưng Yên
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
 #EXTINF:-1 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://yt3.ggpht.com/a/AATXAJwrGKrDOcM-tl6llG0Vv34dsed1Fwi0xt0P8qRK=s900-c-k-c0xffffffff-no-rj-mo",Lai Châu HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&token=1111&time=&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=&pkg=pkg11.hni
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.36:30120
 #EXTINF:-1 tvg-id="langson" group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/554116-Lang-Son.png",Lạng Sơn HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5c/LTV_lai_chau_alt.png/revision/latest?cb=20210716102428&path-prefix=vi",Lào Cai
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+http://118.68.178.1:4000/udp/225.1.1.119:30120
 #EXTINF:-1 tvg-id="namdinh" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/NTV_HD_logo_12-09-2021_b%E1%BA%A3n_4.png/revision/latest?cb=20221216095224&path-prefix=vi",Nam Định
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://1011154949.vnns.net/htvc/namdinh.480p.fpt.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/PTV_HD_Ph%C3%BA_Th%E1%BB%8D_2023.png/revision/latest?cb=20230303145906&path-prefix=vi",Phú Thọ HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/360/77/index.m3u8
 #EXTINF:-1 tvg-id="sonla" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cc/STV_S%C6%A1n_La_c%C5%A9.png/revision/latest/scale-to-width-down/340?cb=20201020014854&path-prefix=vi",Sơn La
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Thanh_H%C3%B3a_-_TTV.svg/1200px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Thanh_H%C3%B3a_-_TTV.svg.png",Thanh Hóa
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://epg.pw/stream/3511cd6ce78dfe8c21b5dfde4b931265066d0a631f629d79af83e7936e6bde9f.m3u8
 #EXTINF:-1tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://tuyenquangtv.vn/file/fb9e3a036ab59c2c016ac3618a0d3aec/fb9e3a036ab59c2c016b2c08c1835d52/062019/TTVchantrang_20190620104114.png",Tuyên Quang HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
-#EXTINF:-1 group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/YTV.png/revision/latest/scale-to-width-down/340?cb=20180830135735&path-prefix=vi",Yên Bái
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://wintv.fun/360/92/index.m3u8
+#EXTINF:-1 tvg-id="yenbai" group-title="Địa Phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/YTV.png/revision/latest/scale-to-width-down/340?cb=20180830135735&path-prefix=vi",Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="vinhphuc" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_%C4%90%C3%A0i_PT-TH_V%C4%A9nh_Ph%C3%BAc.svg/1280px-Logo_%C4%90%C3%A0i_PT-TH_V%C4%A9nh_Ph%C3%BAc.svg.png",Vĩnh Phúc HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist_w13057166.m3u8
 
 
 #Nhóm kênh Quốc Tế
 
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",IN THE BOX HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#http://fpt.vthanhtivi.pw/In_The_Box/mpegts
-https://coca.dl.dropboxusercontent.com/s/vb05w85t4tu7wed/ 																																	  ㅤ?box								 												 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/235/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",BOX HITS HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/Box_Hits/mpegts
-#https://coca.dl.dropboxusercontent.com/s/67k1qz14740vl5u/ 																																	 ㅤ?box.hits								 												 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/boxhits/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX MOVIE 1 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#http://fpt.vthanhtivi.pw/Box_Movie_1/mpegts
-https://coca.dl.dropboxusercontent.com/s/wms41claawxdpww/ 																																 ㅤ?movie1								 												 |Referer=https://sctvonline.vn/ 
+
 #EXTINF:-1  tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",MUSIC BOX HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",Hollywood Classic
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/8800f62718isn9x/ 																																 ㅤ?hollywood								 										 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://wintv.fun/360/160/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Yj6BTzZ/Man-cc.webp",MAN
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://wintv.fun/360/237/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png",WOMAN
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/9pahh31uao0f488/ 																																	 ㅤ?woman								 													 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/n0DZ21g/ccdrfit.webp",Dr.Fit
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/mwou63xsgyhuxeo/ 																															 	 ㅤ?fit								 													 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet EARTH
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/78vqxgi2zxsf774/ 																																 ㅤ?earth								 												 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế", tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC earth
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-# http://fpt.vthanhtivi.pw/bbcearth/index.m3u8
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế", tvg-logo="https://i.ibb.co/HDTd5sj/bbclifestyle.png",BBC lifestyle
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/bbclifestyle/index.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/xhkpZC2/bbcnews.webp",BBC NEWS
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-# http://fpt.vthanhtivi.pw/BBC_News/mpegts
-#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",CNN
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png",Channel News Asia
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8 
-#EXTINF:-1 tvg-id="dmaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/JHcx9jM/ccdmax.png",DMAX
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/dmax/index.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
-https://coca.dl.dropboxusercontent.com/s/3dfnjxi7y2o6a42w1dtjd/ 																																	 ㅤ?discovery      										 													 &rlkey=g4r88ck9kaz8y30zje9x88og7 
-#  http://fpt.vthanhtivi.pw/discovery/index.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
-https://coca.dl.dropboxusercontent.com/s/ux2g4cq9wa5lzbndc7xg8/ 																																 ㅤ?discoveryasia								 													 &rlkey=nvln1dnwps7g20l8ici3lseqe 
-#  http://fpt.vthanhtivi.pw/discoveryasia/index.m3u8
-#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế", tvg-logo="https://i.ibb.co/HDTd5sj/bbclifestyle.png",BBC lifestyle
+
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/xhkpZC2/bbcnews.webp",BBC NEWS
+
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",CNN
+
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="dmaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/JHcx9jM/ccdmax.png",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/dmax/index.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/discovery/index.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/discoveryasia/index.m3u8
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.wintv.me/360/215/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/animal/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/animal/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
-https://coca.dl.dropboxusercontent.com/s/pywyfr2s5rd54afsseyyw/ 																																	 ㅤ?axn      										 													 &rlkey=bqbee9gyf2cwuuk4zaqcjurgq 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/axn/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142",HBO
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/hbo/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/cinemax/index.m3u8
+
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/ZLyzk6t/cc-Cinema-World.webp",CinemaWorld
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #EXTINF:0  tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/79/42/27/7942275bccc3ba8a635b9d88d34efdd1.png",WARNER BROS
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/warnertv/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/warnertv/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",arirang
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="kbs_world" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS WORLD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",FASHIONTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8 
-#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",HISTORY
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/history/mpegts
-#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/51Mscnp/NHKWorld-cc.webp",NHK World
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",FASHIONTV
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",HISTORY
+https://api.wintv.me/360/9856/index.m3u8
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/51Mscnp/NHKWorld-cc.webp",NHK World
+
 #EXTINF:0 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png", CGTN
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png",Outdoor Channel
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png",Outdoor Channel
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb573d1a6573628884cb3663cef54382917b3dcb0e6c886470af4a9765d96300dbf9b9c8fd3ab13c1ec0468a710b6d5a4d14ab61df7502c6c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5ba96852db86098d78378aaad47144220806c3084d86f108f2bdb84240db6bbfb21a5a817d10eed013c0dc49a682d458975e8777a44280c0f38e860dd0d79837a906b46d50007524ab9d13e2a1fb67e5e00b0fb2334f701750f2ad92f33c53ec25626f88344f22078577ef9a2c801a41d3e33370f640a264ea2aafe80e8da4b5d7026230b0dd19144f6239a0f8990614c70dd3ada9fe7b75d9db1d764f830d8a644359e105e76168e9dfd3965a3c8b7f32460aab65d1ed9390e6b1c262931ae9cffda7104b406b3ed2e737b8b762c120d174a981466f0c0d0c81935bd19e821e116c4b948f57d0534ae980cba0ef266a93334a13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953fb3972094ce5a17a080b1d2a89ae4b023270cf40a4e0cbe7761b09a3a29ea98e006e75547d352d85e6f57f928ab24b4c46bb104c045b00079976b246cf10467a49ea2efbfd5027d4444d00e9a536515f2ca6c0be8f82dca915e22ccbae4e4ac2e6df0551e9ab9839f5a220a2b0/173/1920x1080_5287612/index.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Js5d6Bc/tv5.png",TV5 MONDE ASIE
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8|Referer=http://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế", tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/98/Bloomberg_Television_%282016-.n.v.%29.png/revision/latest?cb=20200102142902",bloomberg
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/Bloomberg/mpegts
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",FRENCE 24
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://coca.dl.dropboxusercontent.com/s/x7wjkooeybpgxh483a2d3/ 																																  ㅤ?france 										 													 &rlkey=yqqetvprq445iugvesn6oj0n2
+
 #EXTINF:-1 tvg-id="hgtvhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/images-mkt/hits-channel-logo.png",HITS
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/250.png", CNBC
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/CNBC/mpegts
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=168613&extension=ts&play_token=lQ3VoPIL8j
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/animax/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/animax/index.m3u8
 #EXTINF:-1 tvg-id="happykids"  group-title="Quốc Tế" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
+https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/happykid/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/Cartoonito_HD_2021.png/revision/latest/scale-to-width-down/998?cb=20230118063814&path-prefix=vi",Cartoonito
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/cartoonito/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/cartoonito/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fpt.vthanhtivi.pw/cartoon/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/cartoon/index.m3u8
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/dreamworks/index.m3u8
