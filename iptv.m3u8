@@ -1,6 +1,5 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml"
-#danh sách kênh "http://gg.gg/iptvlistztvvn", tổng 193 kênh
-#Đã update list kênh vào 20/12/2023
+#EXTM3U
+##Đã update list kênh vào 20/12/2023
 
 #EXTINF:0 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png",FPT Play Pladio
 
