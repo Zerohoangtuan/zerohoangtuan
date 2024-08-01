@@ -11,21 +11,18 @@
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/MyTV_logo.png/revision/latest?cb=20221227022021&path-prefix=vi", MyTV 804
 
-#EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png",TV360+ 1 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTINF:0,TV360+ 1 HD
 https://wintv.fun/360/2554/index.m3u8
-#EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png",TV360+ 2 HD
-#EXTVLCOPT:http-user-agent=VMT
+#EXTINF:0,TV360+ 2 HD
 https://wintv.fun/360/1/index.m3u8
-#EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_480_270.png",TV360+ 3 HD
-#EXTVLCOPT:http-user-agent=VMT
+#EXTINF:0,TV360+ 3 HD
 https://wintv.fun/360/148/index.m3u8
 #EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png",TV360+ 4 HD
 #EXTVLCOPT:http-user-agent=VMT
 https://wintv.fun/360/2458/index.m3u8
-#EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_480_270.png", TV360 Miền Tây
+#EXTINF:0, TV360 Miền Tây
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
+#EXTINF:-1, TVB Vietnam
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
 
