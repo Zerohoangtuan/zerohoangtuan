@@ -1278,3 +1278,113 @@ http://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/playlist.m3u8
 https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Billiards+ HD
 https://lte.wiseplayout.com/WiseM3U8_18/master.m3u8
+#EXTINF:-1 tvg-id="BizTV.us" tvg-logo="https://i.imgur.com/yaNXOnO.png" group-title="Lifestyle",Biz TV HD
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TVStorbyen.dk" tvg-logo="https://i.ibb.co/X5h3hJL/tvstb.png" group-title="General",BL-TV/TV Storbyen
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-logo="https://i.imgur.com/oX5oR4d.png" group-title="News",Black News Channel HD
+https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-logo="https://i.imgur.com/cKEwuQc.png" group-title="Movies",Bloody Disgusting TV HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business" user-agent="ExoPlayer2/2.37",Bloomberg
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o8/bloomberg/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Business",Bloomberg HD
+https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
+#EXTINF:-1 tvg-id="BloombergAdria.rs" tvg-logo="https://i.imgur.com/A5ui53C.png" group-title="Business",Bloomberg Adria
+https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/T4HwPUn.png" group-title="General",Bloomberg Quicktake HD
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bloomberg Television
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b976b93279cb000772c6f9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a44-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cd2f458e-d0fb-480d-8f4f-3d15b67ed17c
+#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAustralia.au" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Australia
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Mongolia HD
+https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
+#EXTINF:-1 tvg-id="BloombergTVLiveEvent.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV US Live Event
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPoliticsLiveEvent.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV US Politics Live Event
+https://bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Business",Bloomberg TV+ HD
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KMBYLD5.us" tvg-logo="https://i.imgur.com/GlpYAKt.png" group-title="Music",Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-id="BMCHDTV.us" tvg-logo="https://i.imgur.com/c9LiTz0.png" group-title="General",BMC-HD TV
+https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BNTV.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="Undefined",BN TV
+https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="BNRNieuwsradio.nl" tvg-logo="https://i.imgur.com/d0KLwkj.png" group-title="Undefined",BNR Nieuwsradio HD
+https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BNTV [Geo-blocked]
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
+#EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-logo="https://i.imgur.com/Ms5tSgu.png" group-title="Undefined",Boa Vontade TV HD
+https://ythls.armelin.one/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Undefined",Boas Novas HD
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Kids",Boing
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="BOKTV.za" tvg-logo="https://i.imgur.com/mcNjuuO.png" group-title="Music",BOKTV
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+#EXTINF:-1 tvg-id="BolNews.pk" tvg-logo="https://i.imgur.com/chHLi5u.png" group-title="News",Bol News
+https://ythls.armelin.one/channel/UCz2yxQJZgiB_5elTzqV7FiQ.m3u8
+#EXTINF:-1 tvg-id="BoliviaTV72.bo" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="General",Bolivia TV 7.2
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="General",Bolivia TV
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bolt.ua" tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="Movies;Series" user-agent="ExoPlayer2/2.37",Bolt
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o4/mtvhits/playlist.m3u8
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",bon appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BonDiaTV.es" tvg-logo="https://i.imgur.com/90WOoro.png" group-title="Undefined",Bon Dia TV
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="Bonairetv.bq" tvg-logo="https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png" group-title="Culture",Bonaire.tv HD [Not 24/7]
+https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
+#EXTINF:-1 tvg-id="BonaoTV.do" tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="Undefined",Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+#EXTINF:-1 tvg-id="BonceTV.cw" tvg-logo="https://i.imgur.com/7cVkllH.png" group-title="General",Bonce TV [Not 24/7]
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+#EXTINF:-1 tvg-id="MaishaMagicBongo.za" tvg-logo="https://i.imgur.com/pNKZwox.png" group-title="Undefined",Bongo TV
+https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Undefined",Boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-logo="https://i.imgur.com/rc9MXm5.png" group-title="General",Boss Brothers TV HD
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+#EXTINF:-1 tvg-id="BR6TV.nl" tvg-logo="https://i.imgur.com/NKtAiXu.png" group-title="Undefined",BR6 TV
+https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-logo="https://i.imgur.com/26s6V64.png" group-title="Undefined",BR Fernsehen Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-logo="https://i.imgur.com/26s6V64.png" group-title="Undefined",BR Fernsehen Süd HD
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV HD
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BravoFarsiTV.ir" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Movies;Series",Bravo Farsi TV
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BredaNuTV.nl" tvg-logo="https://i.imgur.com/Eg3sgNb.png" group-title="Undefined",BredaNu TV HD
+https://rtmp.bredanu.nl/live/tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bref Cinéma 100% Court Métrage
+https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BrevardGovernmentAccessTV.us" tvg-logo="https://i.imgur.com/eUTDIQ2.png" group-title="Legislative",Brevard County Government Access TV (Brevard FL)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
+#EXTINF:-1 tvg-id="BrideTV.ng" tvg-logo="https://i.imgur.com/snZMucg.png" group-title="Undefined",Bride TV
+https://webstreaming.viewmedia.tv/web_013/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BRIDGE.ru" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="Music",Bridge
+http://31.148.48.15/Bridge_TV/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGERussianHit.ru" tvg-logo="https://i.imgur.com/f9xdIlN.png" group-title="Music",Bridge Русский хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 tvg-id="BRIDGESchlager.ru" tvg-logo="https://i.imgur.com/a9DXkMN.png" group-title="Music",Bridge Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-logo="https://i.imgur.com/y94bhqX.jpg" group-title="General",Brionnais TV
+https://live.mandarine.media/BrionnaisTV/BrionnaisTV/playlist.m3u8
+#EXTINF:-1 tvg-id="BRT1.cy" tvg-logo="https://i.imgur.com/gOPAi2c.png" group-title="Undefined",BRT 1
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="BRT2.cy" tvg-logo="https://i.imgur.com/t5kbIuj.png" group-title="Undefined",BRT 2
+http://bozztv.com/gin-36bay3/gt-kibrisbrt3/index.m3u8
