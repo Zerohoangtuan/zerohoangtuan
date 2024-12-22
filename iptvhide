@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #danh sách kênh tổng 193 kênh
-#Đã update list kênh vào 17/08/2024
+#Đã update list kênh vào 22/12/2024
 
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png",FPT Play Pladio
 
@@ -299,17 +299,17 @@ http://118.68.178.1:4000/udp/225.1.2.144:30120
 #EXTINF:-1 group-title="K+" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/568?cb=20211011130239&path-prefix=vi",K+ KIDS HD
 
 #EXTINF:-1 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/588?cb=20211011125849&path-prefix=vi",K+ CINE
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1946352900?profile=pass
+
 #EXTINF:-1 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/588?cb=20211011125849&path-prefix=vi",K+ CINE HD
 http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
 #EXTINF:-1 group-title="K+" tvg-id="kaction" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6a/Kplus_Action_logo_m%C3%A0n_h%C3%ACnh_b%E1%BA%A3n_2.png/revision/latest?cb=20231224092910&path-prefix=vi",K+ ACTION
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/916837844?profile=pass
+
 #EXTINF:-1 group-title="K+" tvg-id="kaction" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6a/Kplus_Action_logo_m%C3%A0n_h%C3%ACnh_b%E1%BA%A3n_2.png/revision/latest?cb=20231224092910&path-prefix=vi",K+ ACTION HD
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusAction/index.m3u8
 #EXTINF:-1 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/756?cb=20211011130430&path-prefix=vi",K+ SPORT 1
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/556914677?profile=pass
+
 #EXTINF:-1 group-title="K+" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/774?cb=20211011130352&path-prefix=vi",K+ SPORT 2
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
+
 #EXTINF:-1 group-title="K+" tvg-id="klive1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/K%2B_Live_1.png/revision/latest/scale-to-width-down/1000?cb=20211013135146&path-prefix=vi",K+ LIVE 1
 
 #EXTINF:-1 group-title="K+" tvg-id="klive2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/K%2B_Live_2.png/revision/latest/scale-to-width-down/1000?cb=20211013135722&path-prefix=vi",K+ LIVE 2
@@ -522,7 +522,7 @@ https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế", tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC earth
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/838516899
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế", tvg-logo="https://i.ibb.co/HDTd5sj/bbclifestyle.png",BBC lifestyle
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1628217646
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1628217646?profile=pass
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/xhkpZC2/bbcnews.webp",BBC NEWS
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1707523730
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",CNN
@@ -535,18 +535,18 @@ https://tv.TruyenHinh.Click/CoBan/channelnewsasia/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.238/test/123/playlist.mpegts
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.223/test/123/playlist.mpegts
-#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network
-https://tv.TruyenHinh.Click/CoBan/afnhd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia HD
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/720375231?profile=pass
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network HD
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/635739902?profile=pass
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
-
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1348889966?profile=pass
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
-
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1319789158?profile=pass
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142",HBO
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.112/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
-
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1426505434?profile=pass
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/ZLyzk6t/cc-Cinema-World.webp",CinemaWorld
 
 #EXTINF:0  tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/79/42/27/7942275bccc3ba8a635b9d88d34efdd1.png",WARNER BROS
