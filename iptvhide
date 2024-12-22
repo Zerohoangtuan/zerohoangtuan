@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#danh sách kênh tổng 193 kênh
+#danh sách kênh tổng 204 kênh
 #Đã update list kênh vào 22/12/2024
 
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png",FPT Play Pladio
@@ -408,7 +408,7 @@ https://tv.TruyenHinh.Click/CoBan/143/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/150/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="kiengiang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/KG_Ki%C3%AAn_Giang.png/revision/latest?cb=20201025093743&path-prefix=vi",Kiên Giang
 https://tv.TruyenHinh.Click/CoBan/155/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="kiengiang1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/JzSW9W8/KIENGIANG1.png", Kiên Giang 1
+#EXTINF:-1 tvg-id="kiengiang1" group-title="Địa Phương" tvg-logo="https://i.ibb.co/JzSW9W8/KIENGIANG1.png", Kiên Giang 1
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_LA34.svg/640px-Logo_LA34.svg.png",Long An 34
 https://tv.TruyenHinh.Click/CoBan/161/TuyetDoiKhongKinhDoanh
