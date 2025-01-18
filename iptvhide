@@ -147,39 +147,39 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8?khichtv|Referer=
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 
 
-#Nhóm kênh VTC
+#Nhóm kênh VTC (ngừng phát sóng 15/1/2025)
 
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/vtc/images/b/ba/VTC1_logo.png/revision/latest?cb=20200808151331&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD
-https://tv.TruyenHinh.Click/CoBan/vtc1hd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/1200px-VTC2_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC2
-https://tv.TruyenHinh.Click/CoBan/vtc2hd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest/scale-to-width-down/340?cb=20201207142820&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
-https://tv.TruyenHinh.Click/CoBan/vtc3hd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/VTC4_2018-2020.png/revision/latest/scale-to-width-down/340?cb=20201212065736&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC4 HD
-https://tv.TruyenHinh.Click/CoBan/vtc4hd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/VTC5_logo_2018.svg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC5 HD
-https://tv.TruyenHinh.Click/CoBan/vtc5hd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/1024px-VTC6_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC6 HD
-https://tv.TruyenHinh.Click/CoBan/vtc6hd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/VTC7_logo.png/revision/latest/scale-to-width-down/340?cb=20201125094038&path-prefix=vi",today tv - VTC7 HD
-https://tv.TruyenHinh.Click/CoBan/vtc7hd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VTC8_logo_2018.svg/768px-VTC8_logo_2018.svg.png",VTC8
-https://tv.TruyenHinh.Click/CoBan/vtc8hd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/1200px-VTC9_logo_2018.svg.png",VTC9 HD
-https://tv.TruyenHinh.Click/CoBan/vtc9hd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VTC10_logo_2018.svg/1200px-VTC10_logo_2018.svg.png",VTC10 HD
 
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/1200px-VTC11_logo_2018.svg.png",VTC11
-https://tv.TruyenHinh.Click/CoBan/vtc11hd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc12hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/VTC12_logo_2018.svg",VTC12
 
 #EXTINF:-1 tvg-id="vtc13hd"  group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/340?cb=20201125133758&path-prefix=vi",VTC13 HD
 
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/1020px-VTC14_logo_2018.svg.png",VTC14 HD
-https://tv.TruyenHinh.Click/CoBan/vtc14hd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/VTC16_logo_2018.svg/1200px-VTC16_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC16 HD
-https://tv.TruyenHinh.Click/CoBan/vtc16hd/TuyetDoiKhongKinhDoanh
+
 
 
 #Nhóm kênh VTV
@@ -217,13 +217,13 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-4-1630981226858638199107.jpg",ON PHIMVIET
 https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/3r4zsVG/VCab3-cc.webp",ON SPORTS HD
-
+https://509942876.r.vtvcdn.com/onplus/THETHAO_HD/m30_index.m3u8
 #EXTINF:0 tvg-id="vtvcab4hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/DCK2NBW/ccvcab4.webp",ON MOVIES
 https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zmt05n3/echannel-BEARTV.png",ON EChannel
 https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/ON_Sports%2B_logo_10-08-2023.png/revision/latest?cb=20230816042706&path-prefix=vi",ON SPORTS+
-
+https://509942876.r.vtvcdn.com/onplus/HAY_TV/m30_index.m3u8
 #EXTINF:0 tvg-id="vtvcab7hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/n72n8xm/ccvcab7.webp",ON O2TV
 https://tv.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-id="vtvcab8hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/pjtMHJW/cccvcab8.webp",ON BIBI
@@ -240,11 +240,11 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-id="vtvcab15hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/7Kh7txq/ccvcab15.webp",ON MUSIC
 https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/zbbGFsW/VCab16-cc.webp",ON FOOTBALL HD
-
+https://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m30_index.m3u8
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/Nx646LH/ontreding-BEARTV.png" ,ON TRENDING TV
 https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/YcnJFBD/cab18.webp",ON SPORTS NEWS
-
+https://509942876.r.vtvcdn.com/onplus/THETHAO_TINTUC_HD/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://static.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png",ON Vie DRAMAS
 https://tv.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp",ON VFamily
@@ -280,13 +280,10 @@ https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 #Nhóm kênh HCATV (HanoiCab)
 
 #EXTINF:-1 tvg-id="hitv"  group-title="HCATV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/Logo_HITV_from_2013.png/revision/latest/scale-to-width-down/200?cb=20200831064739&path-prefix=vi",HITV - HCATV 1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #EXTINF:-1 tvg-id="youtv"  group-title="HCATV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5d506068474815.Y3JvcCwzNzI2LDI5MTQsMCw1NQ.png",YouTV - HCATV 2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #EXTINF:0 tvg-id="antg"  group-title="HCATV" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #EXTINF:0 group-title="HCATV",HCATV5
 
@@ -296,7 +293,7 @@ https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 
 
 #EXTINF:-1 group-title="K+" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/568?cb=20211011130239&path-prefix=vi",K+ KIDS HD
-
+http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
 #EXTINF:-1 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/588?cb=20211011125849&path-prefix=vi",K+ CINE
 
 #EXTINF:-1 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/588?cb=20211011125849&path-prefix=vi",K+ CINE HD
