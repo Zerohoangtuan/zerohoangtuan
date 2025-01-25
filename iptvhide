@@ -3,35 +3,35 @@
 #Đã update list kênh vào 22/12/2024
 
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png",FPT Play Pladio
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/MyTV_logo.png/revision/latest?cb=20221227022021&path-prefix=vi", MyTV 801
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/MyTV_logo.png/revision/latest?cb=20221227022021&path-prefix=vi", MyTV 802
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/MyTV_logo.png/revision/latest?cb=20221227022021&path-prefix=vi", MyTV 803
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/MyTV_logo.png/revision/latest?cb=20221227022021&path-prefix=vi", MyTV 804
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 2
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 3
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/ON_Plus.png/revision/latest?cb=20211120091857&path-prefix=vi", ONPLUS LIVE 4
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/ON_Plus.png/revision/latest?cb=20211120091857&path-prefix=vi", ONPLUS LIVE 5
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/ON_Plus.png/revision/latest?cb=20211120091857&path-prefix=vi", ONPLUS LIVE 6
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/ON_Plus.png/revision/latest?cb=20211120091857&path-prefix=vi", ONPLUS LIVE 7
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/ON_Plus.png/revision/latest?cb=20211120091857&path-prefix=vi", ONPLUS LIVE 8
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/ON_Plus.png/revision/latest?cb=20211120091857&path-prefix=vi", ONPLUS LIVE 9
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/ON_Plus.png/revision/latest?cb=20211120091857&path-prefix=vi", ONPLUS LIVE 10
-
+# Ngừng phát sóng
 #EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png",TV360+ 1
 https://tv.TruyenHinh.Click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png",TV360+ 2
@@ -51,11 +51,9 @@ https://tv.TruyenHinh.Click/CoBan/tv360.sk8/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_480_270.png",TV360+ 9
 https://tv.TruyenHinh.Click/CoBan/tv360.sk9/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_480_270.png", TV360 Miền Tây
-
+# Ngừng phát sóng
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
-
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ATV1HD.png",ATV HD
-
+# Ngừng phát sóng
 
 
 #Nhóm kênh HTV
@@ -257,37 +255,30 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/ON_Golf_2022.png/revision/latest?cb=20220311023800&path-prefix=vi",ON GOLF
 https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/ygPLR6S/thethaoviet.png",THỂ THAO VIỆT HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+# Ngừng phát sóng 24/10/2023
 #EXTINF:-1 tvg-id="onvff" group-title="VTVcab" tvg-logo="https://i.ibb.co/9cgCxM6/bongdaviet.png", BÓNG ĐÁ VIỆT HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+# Ngừng phát sóng 24/10/2023
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/BTV5_05-03-2023.png/revision/latest?cb=20230511043715&path-prefix=vi", ON SPORTS ACTION - BTV5 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
-#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png", ON SPORTS ENG HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+# Ngừng phát sóng 15/01/2025
+#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png", ON SPORTS ENG
+# Ngừng phát sóng 24/10/2023
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png", ON FOOTBALL ENG
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
-#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png", ON SPORTS NEWS ENG HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+# Ngừng phát sóng 24/10/2023
+#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png", ON SPORTS NEWS ENG
+# Ngừng phát sóng 24/10/2023
 #EXTINF:0 tvg-id="" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/PYbZ8bs/ongolf-eng.webp",ON GOLF ENG HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+# Ngừng phát sóng 24/10/2023
 
 #Nhóm kênh HCATV (HanoiCab)
 
 #EXTINF:-1 tvg-id="hitv"  group-title="HCATV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/Logo_HITV_from_2013.png/revision/latest/scale-to-width-down/200?cb=20200831064739&path-prefix=vi",HITV - HCATV 1
-
+# Ngừng phát sóng 04/09/2024
 #EXTINF:-1 tvg-id="youtv"  group-title="HCATV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5d506068474815.Y3JvcCwzNzI2LDI5MTQsMCw1NQ.png",YouTV - HCATV 2
-
+# Ngừng phát sóng 18/06/2024
 #EXTINF:0 tvg-id="antg"  group-title="HCATV" tvg-logo="https://i.ibb.co/gjZXgrK/Hanoicab3-cc.png",An Ninh Thế Giới
-
+# không có link
 #EXTINF:0 group-title="HCATV",HCATV5
-
+# Ngừng phát sóng 04/09/2024
 
 
 #Nhóm kênh K+ (no update)
@@ -383,7 +374,7 @@ https://tv.TruyenHinh.Click/CoBan/142/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png",Đồng Nai 2 HD
 https://tv.TruyenHinh.Click/CoBan/184/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/28/%C4%90N3-RTV_2018.png/revision/latest?cb=20211204125059&path-prefix=vi",Đồng Nai 3
-
+https://thvip.site/Vieon.php?id=dongnai3
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/133794-Tayninh.png",Tây Ninh
 https://tv.TruyenHinh.Click/CoBan/174/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="baria" group-title="Địa Phương" tvg-logo="https://www.brt.vn/static/images/logo.png",Vũng Tàu HD
@@ -534,7 +525,10 @@ https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="happykids"  group-title="Quốc Tế" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
 https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/Cartoonito_HD_2021.png/revision/latest/scale-to-width-down/998?cb=20230118063814&path-prefix=vi",Cartoonito
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -545,7 +539,10 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png",CNA
 https://tv.TruyenHinh.Click/CoBan/channelnewsasia/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="dmaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/JHcx9jM/ccdmax.png",DMAX
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.238/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia HD
@@ -566,7 +563,10 @@ http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1426505434?pr
 #KODIPROP:inputstream.adaptive.license_key= {"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:0  tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/79/42/27/7942275bccc3ba8a635b9d88d34efdd1.png",WARNER BROS
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",arirang
 https://tv.TruyenHinh.Click/CoBan/arirang/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="kbs_world" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS WORLD
